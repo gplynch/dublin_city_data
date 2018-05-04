@@ -10,7 +10,7 @@ Goals of this project are:
 * Allow semantic querying over the data.
 
 
-Inspired by a hackathon on Dublin City Council Data from Dublin Inquirer (counciltracker.ie)
+Inspired by the experience of a datathon related to Dublin City Council Data from Dublin Inquirer (https://www.counciltracker.ie/)
 
 
 # Process
@@ -22,7 +22,7 @@ Inspired by a hackathon on Dublin City Council Data from Dublin Inquirer (counci
 * TODO : Geocode these using Google Maps API
 * TODO : Further enrich this data using dbpedia_spotlight allowing semantic search and explanations (https://github.com/dbpedia-spotlight/dbpedia-spotlight)
 * TODO : Create frontend using OpenStreetMap and allow users to view the history of a location through Dublin City Council data.
-* TODO : Visualise the change in focus of the council over 100 years (building of new suburbs in 1960s and 1970s, etc)
+* TODO : Visualise the change in locational focus of the council over 100 years (building of new suburbs in 1960s and 1970s, etc)
 
 # Challenges
 
