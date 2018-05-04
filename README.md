@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains code and data from a historical index (1888-1988) of Dublin City Council meeting notes.
+This repo contains code and data from a historical index (1881-1987) of Dublin City Council meeting notes (http://databases.dublincity.ie/minutes/).
 
 Goals of this project are:
 
