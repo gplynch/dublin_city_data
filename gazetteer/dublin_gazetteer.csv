@@ -1,0 +1,3970 @@
+number,english,irish
+0,abbey court,cúirt na mainistreach
+1,abbey drive,céide na mainistreach
+2,abbey park,páirc na mainistreach
+3,abbey street lower,sráid na mainistreach
+4,abbey street middle,sráid na mainistreach láir
+5,abbey street upper,sráid na mainistreach
+5,abbey street,sráid na mainistreach
+6,abbeyfield gort,na mainistreach
+7,abbotstown avenue,ascaill bhaile an aba
+8,abbotstown drive,céide bhaile an aba
+9,abbotstown road,bóthar bhaile an aba
+10,abercorn road,bóthar obar chúirnidh
+11,abercorn square,cearnóg obar chúirnidh
+12,abercorn terrace,ardán obar chúirnidh
+13,aberdeen street,sráid obar dheathain
+14,achill road,bóthar acla
+15,acres road,bóthar na nacraí
+16,adair court,cúirt uí dháire
+17,adair lane,lána uí dháire
+18,adare avenue,ascaill áth dara
+19,adare drive,céide áth dara
+20,adare green,faiche áth dara
+21,adare park,páirc áth dara
+22,adare road,bóthar áth dara
+23,addison road,bóthar addison
+24,adelaide court,cúirt adelaide
+25,adelaide mews,eachlann adelaide
+26,adelaide road,bóthar adelaide
+27,adelaide terrace,ardán adelaide
+28,adrian avenue,ascaill adrian
+29,aideen avenue,ascaill éadaoin
+30,aideen drive,céide éadaoin
+31,aideen place,plás éadaoin
+32,aikenhead terrace,ardán aikenhead
+33,ailesbury drive,céide ailesbury
+34,ailesbury gardens,gairdíní ailesbury
+35,ailesbury grove,garrán ailesbury
+36,ailesbury mews,eachlann ailesbury
+37,ailesbury park,páirc ailesbury
+38,ailesbury road,bóthar ailesbury
+39,airfield court,cúirt bhán an aeir
+40,airfield park,páirc bhán an aéir
+41,airfield road,bóthar bhán an aeir
+42,aisling close,clós aislinge
+43,albany road,bóthar alban
+44,albert college avenue,ascaill choláiste ailbhe
+45,albert college crescent,corrán choláiste ailbhe
+46,albert college drive,céide choláiste ailbhe
+47,albert college grove,garrán choláiste ailbhe
+48,albert college lawn,plásóg choláiste ailbhe
+49,albert college park,páirc choláiste ailbhe
+50,albert court,east cúirt ailbhe thoir
+51,albert place,east plás ailbhe thoir
+52,albert place,west plás ailbhe thiar
+53,albert terrace,ardán ailbhe
+54,aldborough parade,paráid aldborough
+55,aldrin walk,siúlán aldrin
+56,alexander terrace,ardán alexander
+57,alexandra road,bóthar alexandra
+58,alexandra road,extension síneadh bhóthar alexandra
+59,alexandra terrace,ardán alexandra
+60,alfie byrne road,bóthar ailf uí bhroin
+61,all saints drive,céide na naomh uile
+62,all saints park,páirc na naomh uile
+63,all saints road,bóthar na naomh
+64,allingham street,sráid allingham
+65,alma court,cúirt alma
+66,alma terrace,ardán alma
+67,almeida avenue,ascaill almeida
+68,alone walk,siúlán alone
+69,amiens street,sráid amiens
+70,anglesea road,bóthar anglesea
+71,anglesea row,rae anglesea
+72,anglesea street,sráid anglesea
+73,anna villa anna villa,
+74,annadale avenue,ascaill annadale
+75,annadale crescent,corrán annadale
+76,annadale drive,céide annadale
+77,annaly road,bóthar na hanaíle
+78,annamoe drive,céide áth na mbó
+79,annamoe park,páirc áth na mbó
+80,annamoe road,bóthar áth na mbó
+81,annamoe terrace,ardán áth na mbó
+82,anne street,north sráid anna thuaidh
+83,anne street,south sráid anna theas
+84,anner road,bóthar na hannúire
+85,anne’s lane,lána anna
+86,annesley avenue,ascaill annesley
+87,annesley bridge road,bóthar dhroichead
+88,annesley park,páirc annesley
+89,annesley place,plás annesley
+90,apollo way,bealach apollo
+91,appian way,bealach aipiach
+92,arbour hill,cnoc an arbhair
+93,arbour place,plás an arbhair
+94,arbour terrace,ardán an arbhair
+95,arbutus avenue,ascaill na caithne
+96,arbutus place,plás na caithne
+97,ard rö place,plás ard ró
+98,ard rö road,bóthar ard ró
+99,ardagh road,bóthar ardach
+100,ardara avenue,ascaill ard an rátha
+101,ardbeg crescent,corrán an aird bhig
+102,ardbeg drive,céide an aird bhig
+103,ardbeg park,páirc an aird bhig
+104,ardbeg road,bóthar an aird bhig
+105,ardcollum avenue,ascaill ard cholm
+106,ardee grove,garrán bhaile átha fhirdhia
+107,ardee road,bóthar bhaile átha fhirdhia
+108,ardee row,rae bhaile átha fhirdhia
+109,ardee street,sráid bhaile átha fhirdhia
+110,ardilaun road,bóthar ardoileáin
+111,ardilaun square,cearnóg ardoileáin
+112,ardlea road,bóthar ard liath
+113,ardmore avenue,ascaill an aird mhóir
+114,ardmore close,clós an aird mhóir
+115,ardmore crescent,corrán an aird mhóir
+116,ardmore drive,céide an aird mhóir
+117,ardmore grove,garrán an aird mhóir
+118,ardmore park,páirc an aird mhóir
+119,ardpatrick road,bóthar ard pádraig
+120,argyle road,bóthar earra ghaidheal
+121,arklow street,sráid an inbhir mhóir
+122,armagh road,bóthar ard mhacha
+123,armstrong street,sráid armstrong
+124,armstrong walk,siúlán armstrong
+125,arnott street,sráid arnott
+126,arran quay,cé árann
+127,arran quay terrace,ardán ché árann
+128,arran road,bóthar árann
+129,arran street,east sráid árann thoir
+130,arran street,west sráid árann thiar
+131,arranmore avenue,ascaill árainn mhór
+132,arranmore road,bóthar árainn mhór
+133,asdill’s row,rae asdill
+134,ash grove,garrán na
+135,ash street,sráid na
+136,ashdale avenue,ascaill ghleanntán na
+137,ashdale gardens,gairdíní ghleanntán na
+138,ashdale park,páirc ghleanntán na
+139,ashdale road,bóthar ghleanntán na
+140,ashfield avenue,ascaill ghort na
+141,ashfield park,páirc ghort na
+142,ashfield road,bóthar ghort na
+143,ashford cottages,iostáin áth na
+144,ashford place,plás áth na
+145,ashford street,sráid áth na
+146,ashington avenue,ascaill ashington
+147,ashington close,clós ashington
+148,ashington court,cúirt ashington
+149,ashington crescent,corrán ashington
+150,ashington gardens,gairdíní ashington
+151,ashington green,faiche ashington
+152,ashington grove,garrán ashington
+153,ashington heath,fraoch ashington
+154,ashington mews,eachlann ashington
+155,ashington park,páirc ashington
+156,ashington rise,ard ashington
+157,ashmount court,cúirt chnocán na
+158,ashtown grove,garrán bhaile an ásaigh
+159,ashtown road,bóthar bhaile an ásaigh
+160,ashworth place,plás ashworth
+161,aston place,plás aston
+162,aston quay,cé aston
+163,athlumney villas,bailtíní áth luimnigh
+164,auburn avenue,ascaill achadh na gréine
+165,auburn road,bóthar achadh na gréine
+166,auburn street,sráid achadh na gréine
+167,auburn villas,bailtíní achadh na gréine
+168,aughavannagh road,bóthar achadh mheánach
+169,aughrim lane,lána eachroma
+170,aughrim place,plás eachroma
+171,aughrim street,sráid eachroma
+172,aungier street,sráid aungier
+173,austin’s cottages,iostáin mhic aibhistín
+174,ave maria road,bóthar ave maria
+175,avenue road,bóthar na hascaille
+176,avila gardens,gairdíní avila
+177,avila park,páirc avila
+178,avondale avenue,ascaill avondale
+179,avondale park,páirc avondale
+180,avondale road,bóthar avondale
+181,ayrfield avenue,ascaill bhán an aeir
+182,ayrfield court,cúirt bhán an aeir
+183,ayrfield drive,céide bhán an aeir
+184,ayrfield grove,garrán bhán an aeir
+185,ayrfield park,páirc bhán an aeir
+186,ayrfield place,plás bhán an aeir
+187,ayrfield road,bóthar bhán an aeir
+188,bachelors walk,siúlán bhaitsiléir
+189,back lane,an lána cúil
+190,baggot court,cúirt bhagóid
+191,baggot lane,lána bhagóid
+192,baggot rath place,plás ráth bhagóid
+193,baggot road,bóthar bhagóid
+194,baggot street lower,sráid bhagóid
+195,baggot street upper,sráid bhagóid
+195,baggot street,sráid bhagóid
+196,bailey’s row,rae bailey
+197,balbutcher drive,céide bhaile bhúiséir
+198,balbutcher lane,lána bhaile bhúiséir
+199,balbutcher way,bealach bhaile bhúiséir
+200,balcurris gardens,gairdíní bhaile cora
+201,balcurris road,bóthar bhaile cora
+202,balfe avenue,ascaill an bhailfigh
+203,balfe road,bóthar an bhailfigh
+204,balfe road,east bóthar an bhailfigh thoir
+205,balfe street,sráid an bhailfigh
+206,ball’s lane,lána bhál
+207,ballsbridge avenue,ascaill dhroichead
+208,ballsbridge terrace,ardán dhroichead
+209,ballyboggan road,bóthar bhaile uí bhogáin
+210,ballybough avenue,ascaill an bhaile bhoicht
+211,ballybough road,bóthar an bhaile bhoicht
+212,ballyfermot avenue,ascaill bhaile formaid
+213,ballyfermot crescent,corrán bhaile formaid
+214,ballyfermot drive,céide bhaile formaid
+215,ballyfermot parade,paráid bhaile formaid
+216,ballyfermot road,bóthar bhaile formaid
+217,ballyfermot road upper,bóthar bhaile formaid
+218,ballygall avenue,ascaill bhaile gall
+219,ballygall crescent,corrán bhaile gall
+220,ballygall parade,paráid bhaile gall
+221,ballygall place,plás bhaile gall
+222,ballygall road,east bóthar bhaile gall thoir
+223,ballygall road,west bóthar bhaile gall thiar
+224,ballyhoy avenue,ascaill bhaile uí eochaidh
+225,ballymount drive,céide bhaile an mhóta
+226,ballymount road lower,bóthar bhaile an mhóta
+227,ballymun industrial estate,eastát tionscail bhaile
+228,ballymun road,bóthar bhaile munna
+229,ballyneety road,bóthar bhaile an fhaoitigh
+230,ballyshannon avenue,ascaill bhéal átha seanaidh
+231,ballyshannon road,bóthar bhéal átha seanaidh
+232,bangor drive,céide bheannchair
+233,bangor road,bóthar bheannchair
+234,bann road,bóthar na banna
+235,bannow road,bóthar bhanú
+236,bantry road,bóthar bheanntraí
+237,bargy road,bóthar uí bhairche
+238,barnamore crescent,corrán bhearna mhór
+239,barnamore grove,garrán bhearna mhór
+240,barnamore park,páirc bhearna mhór
+241,barrack lane,lána na beairice
+242,barron place,plás bharúin
+243,barrow road,bóthar na bearú
+244,barrow street,sráid na bearú
+245,barry avenue,ascaill an bharraigh
+246,barry close,clós an bharraigh
+247,barry drive,céide an bharraigh
+248,barry green,faiche an bharraigh
+249,barry park,páirc an bharraigh
+250,barry road,bóthar an bharraigh
+251,barryscourt road,bóthar chúirt an bharraigh
+252,basin street lower,sráid an taiscumair
+253,basin street upper,sráid an taiscumair
+254,bass place,plás bass
+255,bath avenue,ascaill na bhfolcadán
+256,bath avenue gardens,gairdíní ascaill na
+257,bath avenue place,plás ascaill na bhfolcadán
+258,bath lane,lána na bhfolcadán
+259,bath street,sráid na bhfolcadán
+260,baymount park,páírc chnocán an chuain
+261,bayview avenue,ascaill radharc an chuain
+262,beach avenue,ascaill an chladaigh
+263,beach drive,céide an chladaigh
+264,beach road,bóthar an chladaigh
+265,beatty’s avenue,ascaill an bhiataigh
+266,beaumont crescent,corrán beaumont
+267,beaumont grove,garrán beaumont
+268,beaumont road,bóthar beaumont
+269,beauvale park,páírc beauvale
+270,beaver close,clós na mbéabhar
+271,beaver row,rae na mbéabhar
+272,beaver street,sráid na mbéabhar
+273,beckett way,bealach bheicéid
+274,bedford row,rae bedford
+275,beech hill avenue,ascaill chnoc na feá
+276,beech hill crescent,corrán chnoc na feá
+277,beech hill drive,céide chnoc na feá
+278,beech hill road,bóthar chnoc na feá
+279,beech hill terrace,ardán chnoc na feá
+280,beech hill villas,bailtíní chnoc na feá
+281,"beeches, the",na feánna
+282,beechbrook grove,garrán shruthán na feá
+283,beechdale mews,eachlann ghleanntán na fea
+284,beechlawn avenue,ascaill phlásóg na feá
+285,beechlawn close,clós phlásóg na feá
+286,beechlawn green,faiche phlásóg na feá
+287,beechlawn grove,garrán phlásóg na feá
+288,beechlawn way,bealach phlasóg na feá
+289,beechmount court,cúirt chnocán na feá
+290,beechpark avenue,ascaill pháirc na feá
+291,beechpark court,cúirt pháirc na feá
+292,beechwood avenue lower,ascaill choill na feá
+293,beechwood avenue upper,ascaill choill na feá
+294,beechwood park,páirc choill na feá
+295,beechwood road,bóthar choill na feá
+296,belcamp avenue,ascaill belcamp
+297,belcamp crescent,corrán belcamp
+298,belcamp gardens,gairdíní belcamp
+299,belcamp green,faiche belcamp
+300,belcamp grove,garrán belcamp
+301,belcamp lane,lána belcamp
+302,belclare avenue,ascaill bhéal chláir
+303,belclare crescent,corrán bhéal chláir
+304,belclare drive,céide bhéal chláir
+305,belclare green,faiche bhéal chláir
+306,belclare grove,garrán bhéal chláir
+307,belclare park,páirc bhéal chláir
+308,belclare terrace,ardán bhéal chláir
+309,belclare way,bealach bhéal chláir
+310,belgrave avenue,ascaill belgrave
+311,belgrave place,plás belgrave
+312,belgrave road,bóthar belgrave
+313,belgrave square,east cearnóg belgrave thoir
+314,belgrave square,north cearnóg belgrave thuaidh
+315,belgrave square,south cearnóg belgrave theas
+316,belgrave square,west cearnóg belgrave thiar
+317,belgrave view,radharc belgrave
+318,belgrove lawn,plásóg belgrove
+319,belgrove park,páirc belgrove
+320,belgrove road,bóthar belgrove
+321,bella avenue,ascaill bella
+322,bella place,plás bella
+323,bella street,sráid bella
+324,belleville avenue,ascaill belleville
+325,bellevue avenue,ascaill bellevue
+326,bellevue park avenue,ascaill pháirc bellevue
+327,bellmans walk,siúlán an chlogaire
+328,bell’s lane,lána bell
+329,belmont avenue,ascaill belmont
+330,belmont gardens,gairdíní belmont
+331,belmont park,páirc belmont
+332,belmont place,plás belmont
+333,belmont villas,bailtíní belmont
+334,belton park avenue,ascaill pháirc bhéalatúin
+335,belton park gardens,gairdíní pháirc bhéalatúin
+336,belton park road,bóthar pháirc bhéalatúin
+337,belton park villas,bailtíní pháirc bhéalatúin
+338,belvedere avenue,ascaill belvedere
+339,belvedere court,cúirt belvedere
+340,belvedere place,plás belvedere
+341,belvedere road,bóthar belvedere
+342,ben edair road,bóthar bhinn éadair
+343,benbulbin avenue,ascaill bhinn ghulbain
+344,benbulbin road,bóthar bhinn ghulbain
+345,benburb street,sráid na binne boirbe
+346,beneavin court,cúirt bhinn aoibhinn
+347,beneavin drive,céide bhinn aoibhinn
+348,beneavin park,páirc bhinn aoibhinn
+349,beneavin road,bóthar bhinn aoibhinn
+350,benmadigan road,bóthar bhinn mhadagáin
+351,benson street,sráid benson
+352,beresford avenue,ascaill beresford
+353,beresford green,faiche beresford
+354,beresford lane,lána beresford
+355,beresford lawn,plásóg beresford
+356,beresford place,plás beresford
+357,beresford street,sráid beresford
+358,berkeley avenue,ascaill berkeley
+359,berkeley place,plás berkeley
+360,berkeley road,bóthar berkeley
+361,berkeley street,sráid berkeley
+362,berkeley terrace,ardán berkeley
+363,berryfield crescent,corrán ghort na sméar
+364,berryfield drive,céide ghort na sméar
+365,berryfield road,bóthar ghort na sméar
+366,bessborough avenue,ascaill bessborough
+367,bessborough parade,paráid bessborough
+368,bethesda place,plás bhéatsáide
+369,bettystown avenue,ascaill bhaile an bhiataigh
+370,bigger road,bóthar bigger
+371,bishop street,sráid an easpaig
+372,black street,sráid uí dhuibh
+373,blackberry lane,lána na sméar
+374,blackditch drive,céide an chlaí dhuibh
+375,blackditch road,bóthar an chlaí dhuibh
+376,blackhall parade,paráid blackhall
+377,blackhall place,plás blackhall
+378,blackhall street,sráid blackhall
+379,blackheath avenue,ascaill an fhraoigh dhuibh
+380,blackheath court,cúirt an fhraoigh dhuibh
+381,blackheath drive,céide an fhraoigh dhuibh
+382,blackheath gardens,gairdíní an fhraoigh dhuibh
+383,blackheath grove,garrán an fhraoigh dhuibh
+384,blackheath park,páirc an fhraoigh dhuibh
+385,blackhorse avenue,ascaill an chiardhuibh
+386,blackhorse downs,mulláin an chiardhuibh
+387,blackhorse grove,garrán an chiardhuibh
+388,blackwater road,bóthar na habhann móire
+389,blarney park,páirc na blarnan
+390,blessington court,cúirt bhaile coimín
+391,blessington lane,lána bhaile coimín
+392,blessington place,plás bhaile coimín
+393,blessington street,sráid bhaile coimín
+394,bloomfield avenue,ascaill ghort na mbláth
+395,bloomfield cottages,iostáin ghort na mbláth
+396,bloomfield park,páirc ghort na mbláth
+397,bluebell avenue,ascaill an chloigín ghoirm
+398,bluebell lane,lána an chloigín ghoirm
+399,bluebell road,bóthar an chloigín ghoirm
+400,blunden drive,céide blunden
+401,blythe avenue,ascaill blythe
+402,boardman’s lane,lána boardman
+403,bolton street,sráid bolton
+404,bond road,bóthar bond
+405,bond road,extension síneadh bhóthar bond
+406,bond street,sráid bond
+407,bonham street,sráid bonham
+408,boolavogue road,bóthar bhuaile mhaodhóg
+409,botanic avenue,ascaill gharraithe na lus
+410,botanic park,páirc gharraithe na lus
+411,botanic road,bóthar gharraithe na lus
+412,botanic villas,bailtíní gharraithe na lus
+413,bow bridge,an droichead cam
+414,bow lane,east lána na huillinne thoir
+415,bow lane,west lána na huillinne thiar
+416,bow street,sráid bowes
+417,boyne road,bóthar na bóinne
+418,boyne street,sráid na bóinne
+419,brabazon row,rae brabazon
+420,brabazon square,cearnóg brabazon
+421,brabazon street,sráid brabazon
+422,bracken’s lane,lána uí bhreacáin
+423,brainsborough terrace,ardán brainsborough
+424,braithwaite street,sráid braithwaite
+425,"bramblings, the",cúirt na ndriseog
+426,branch road,north an craobh-bhóthar thuaidh
+427,branch road,south an craobh-bhóthar theas
+428,brandon road,bóthar bhréanainn
+429,brandon terrace,ardán bhréanainn
+430,breakwater road,south bóthar an tonnchoisc
+431,bregia road,bóthar bhreá
+432,bremen avenue,ascaill bremen
+433,bremen grove,garrán bremen
+434,bremen road,bóthar bremen
+435,brendan road,bóthar bhreandáin
+436,brian avenue,ascaill bhriain
+437,brian boru avenue,ascaill bhriain bhórú
+438,brian boru street,sráid bhriain bhórú
+439,brian road,bóthar bhriain
+440,brian terrace,ardán bhriain
+441,briarfield grove,garrán ghort na ndriseog
+442,briarfield road,bóthar ghort na ndriseog
+443,briarfield walk,siúlán ghort na ndriseog
+444,brickfield drive,céide ghort na mbrící
+445,brickfield lane,lána ghort na mbrící
+446,bride road,bóthar bhríde
+447,bride street,sráid bhríde
+448,bride street,new sráid bhríde nua
+449,bridge street,sráid an droichid
+450,bridge street lower,sráid an droichid
+451,bridge water quay,cé uisce an droichid
+452,bridgefoot street,sráid bhun droichid
+453,brighton avenue,ascaill brighton
+454,brighton gardens,gairdíní brighton
+455,brighton green,faiche brighton
+456,brighton road,bóthar brighton
+457,brighton square,cearnóg brighton
+458,britain place,plás na breataine
+459,britain quay,cé na breataine
+460,broadstone avenue,ascaill na cloiche leithne
+461,broadstone place,plás na cloiche leithne
+462,brodir row,rae bhruadair
+463,brookfield gort,an tsrutháin
+464,brookfield green,faiche ghort an tsrutháin
+465,brookfield road,bóthar ghort an tsrutháin
+466,brookfield street,sráid ghort an tsrutháin
+467,brookvale road,bóthar ghleanntán an
+468,brookville crescent,corrán bhaile an tsrutháin
+469,brookville park,páirc bhaile an tsrutháin
+470,brookwood avenue,ascaill choill an tsrutháin
+471,brookwood crescent,corrán choill an tsrutháin
+472,brookwood drive,céide choill an tsrutháin
+473,brookwood glen,gleann choill an tsrutháin
+474,brookwood grove,garrán choill an tsrutháin
+475,brookwood lawn,plásóg choill an tsrutháin
+476,brookwood park,páirc choill an tsrutháin
+477,brookwood rise,ard choill an tsrutháin
+478,brookwood road,bóthar choill an tsrutháin
+479,broombridge road,bóthar dhroichead broome
+480,brown street,south sráid an bhrúnaigh theas
+481,brunswick place,plás brunswick
+482,brunswick street,north sráid brunswick thuaidh
+483,buckingham street lower,sráid buckingham
+484,buckingham street upper,sráid buckingham
+485,bulfin gardens,gairdíní bulfin
+486,bulfin road,bóthar bulfin
+487,bull alley street,sráid scabhat na dtarbh
+488,bull wall,balla an bhulla
+489,bull wall cottages,iostáin bhalla an bhulla
+490,bunratty avenue,ascaill bhun raite
+491,bunratty drive,céide bhun raite
+492,bunratty road,bóthar bhun raite
+493,bunting road,bóthar bunting
+494,burgh quay,cé an bhúrcaigh
+495,burke place,plás an bhúrcaigh
+496,burlington gardens,gairdíní burlington
+497,burlington road,bóthar burlington
+498,burren court,cúirt bhoirne
+499,burris court,cúirt burris
+500,bushfield avenue,ascaill ghort na dtor
+501,bushfield place,plás ghort na dtor
+502,bushfield square,cearnóg ghort na dtor
+503,bushfield terrace,ardán ghort na dtor
+504,bushy park gardens,gairdíní pháirc na dtor
+505,bushy park road,bóthar pháirc na dtor
+506,buttercup avenue,ascaill na bhfearbán
+507,buttercup close,clós na bhfearbán
+508,buttercup drive,céide na bhfearbán
+509,buttercup green,faiche na bhfearbán
+510,buttercup park,páirc na bhfearbán
+511,buttercup square,cearnóg na bhfearbán
+512,buttercup terrace,ardán na bhfearbán
+513,byrnes lane,lána uí bhroin
+514,cabra court,cúirt na cabraí
+515,cabra drive,céide na cabraí
+516,cabra grove,garrán na cabraí
+517,cabra park,páirc na cabraí
+518,cabra road,bóthar na cabraí
+519,"cabra road, the",rere of cúl bhóthar na cabraí
+520,cadogan road,bóthar cadogan
+521,cairn court,cúirt an chairn
+522,calderwood avenue,ascaill calderwood
+523,calderwood grove,garrán calderwood
+524,calderwood road,bóthar calderwood
+525,caledon court,cúirt cheann aird
+526,caledon road,bóthar cheann aird
+527,camac close,clós na camóige
+528,camac court,cúirt na camóige
+529,camac lane,lána na camóige
+530,camac park,páirc na camóige
+531,cambridge avenue,ascaill cambridge
+532,cambridge park,páirc cambridge
+533,cambridge road,bóthar cambridge
+534,cambridge square,cearnóg cambridge
+535,cambridge terrace,ardán cambridge
+536,cambridge villas,bailtíní cambridge
+537,camden buildings,foirgnimh camden
+538,camden court,cúirt camden
+539,camden place,plás camden
+540,camden row,rae camden
+541,camden street lower,sráid camden
+542,camden street upper,sráid camden
+543,cameron square,cearnóg chamshróine
+544,cameron street,sráid chamshróine
+545,campbell’s court,cúirt mhic ailín
+546,campbell’s row,rae mhic ailín
+547,canal road,bóthar na canálach
+548,canal terrace,ardán na canálach
+549,canal walk,siúlán na canálach
+550,canon lillis avenue,ascaill an chanónaigh uí
+551,capel street,sráid chéipil
+552,cappagh avenue,ascaill cheapaí
+553,cappagh drive,céide cheapaí
+554,cappagh green,faiche cheapaí
+555,cappagh road,bóthar cheapaí
+556,captain’s avenue,ascaill an chaptaein
+557,captain’s drive,céide an chaptaein
+558,captain’s road,bóthar an chaptaein
+559,caragh road,bóthar loch cárthaí
+560,carberry road,bóthar chairbre
+561,cardiff castle road,bóthar chaisleán chairdif
+562,cardiff lane,lána chairdif
+563,cardiffsbridge avenue,ascaill dhroichead chairdif
+564,cardiffsbridge grove,garrán dhroichead chairdif
+565,cardiffsbridge road,bóthar dhroichead chairdif
+566,cards lane,lána card
+567,carleton road,bóthar uí chairealláin
+568,carlingford court,cúirt chairlinn
+569,carlingford parade,paráid chairlinn
+570,carlingford road,bóthar chairlinn
+571,carlisle avenue,ascaill carlisle
+572,carlisle street,sráid carlisle
+573,carmans hall hall,a na gcarraeirí
+574,carna road,bóthar charna
+575,carndonagh drive,céide charn domhnach
+576,carndonagh lawn,plásóg charn domhnach
+577,carndonagh park,páirc charn domhnach
+578,carndonagh road,bóthar charn domhnach
+579,carnew street,sráid charn an bhua
+580,carnlough road,bóthar charnlaigh
+581,caroline row,rae caroline
+582,carraroe avenue,ascaill na ceathrún rua
+583,carrick terrace,ardán na carraige
+584,carrickfoyle terrace,ardán charraig an phoill
+585,carrigallen drive,céide charraig álainn
+586,carrigallen park,páirc charraig álainn
+587,carrigallen road,bóthar charraig álainn
+588,carrow road,bóthar na ceathrún
+589,casement close,clós mhic easmainn
+590,casement drive,céide mhic easmainn
+591,casement green,faiche mhic easmainn
+592,casement grove,garrán mhic easmainn
+593,casement park,páirc mhic easmainn
+594,casement road,bóthar mhic easmainn
+595,cashel avenue,ascaill chaisil
+596,cashel road,bóthar chaisil
+597,casimir avenue,ascaill casimir
+598,casimir court,cúirt casimir
+599,casimir road,bóthar casimir
+600,casino park,páirc an chasaíne
+601,casino road,bóthar an chasaíne
+602,castilla park,páirc castilla
+603,castle avenue,ascaill an chaisleáin
+604,castle grove,garrán an chaisleáin
+605,castle market,margadh an chaisleáin
+606,castle road,bóthar an chaisleáin
+607,castle street,sráid an chaisleáin
+608,castle terrace,ardán an chaisleáin
+609,castleforbes road,bóthar chaisleán foirbis
+610,castlekevin road,bóthar chaisleán chaoimhín
+611,castleknock road,bóthar chaisleán cnucha
+612,castletimon avenue,ascaill chaisleán tsíomóin
+613,castletimon drive,céide chaisleán tsíomóin
+614,castletimon gardens,gairdíní chaisleán tsíomóin
+615,castletimon green,faiche chaisleán tsíomóin
+616,castletimon park,páirc chaisleán tsíomóin
+617,castletimon road,bóthar chaisleán tsíomóin
+618,castlewood avenue,ascaill fhiodh an chaisleáin
+619,castlewood park,páirc fhiodh an chaisleáin
+620,castlewood place,plás fhiodh an chaisleáin
+621,castlewood terrace,ardán fhiodh an chaisleáin
+622,cathal brugha street,sráid chathail brugha
+623,cathedral lane,lána na hardeaglaise
+624,cathedral street,sráid na hardeaglaise
+625,cathedral view court,cúirt radharc na hardeaglaise
+626,cathedral view walk,siúlán radharc na hardeaglaise
+627,catherine court,cúirt chaitríona
+628,catherine lane,north lána san caitríona thuaidh
+629,catherine street,sráid san caitríona
+630,cavalry row,rae an mharcshlua
+631,cavendish row,rae cavendish
+632,cecil avenue,ascaill shisil
+633,cecilia street,sráid shisile
+634,cedar court,cúirt an chéadrais
+635,cedar park,páirc an chéadrais
+636,cedar walk,siúlán an chéadrais
+637,cedarwood avenue,ascaill choill an chéadrais
+638,cedarwood close,clós choill an chéadrais
+639,cedarwood green,faiche choill an chéadrais
+640,cedarwood grove,garrán choill an chéadrais
+641,cedarwood park,páirc choill an chéadrais
+642,cedarwood rise,ard choill an chéadrais
+643,cedarwood road,bóthar choill an chéadrais
+644,celestine avenue,ascaill celestine
+645,celtic park avenue,ascaill pháirc cheilteach
+646,celtic park road,bóthar pháirc cheilteach
+647,chamber street,sráid an tseomraigh
+648,champions avenue,ascaill na gcuradh
+649,chancel mews,eachlann an tsaingil
+650,chancery lane,lána na seansaireachta
+651,chancery place,plás na seansaireachta
+652,chancery street,sráid na seansaireachta
+653,chanel avenue,ascaill chanel
+654,chanel court,cúirt chanel
+655,chanel grove,garrán chanel
+656,chanel road,bóthar chanel
+657,chapel avenue,ascaill an tséipéil
+658,chapel crescent,corrán an tséipéil
+659,chapel lane,lána an tséipéil
+660,chapelizod court,cúirt shéipéal iosóid
+661,chapelizod hill road,bóthar chnoc shéipéal
+662,chapelizod road,bóthar shéipéal iosóid
+663,charlemont parade,paráid charlemont
+664,charlemont place,plás charlemont
+665,charlemont road,bóthar charlemont
+666,charlemont street,sráid charlemont
+667,charles lane,lána shéarlais
+668,charles street,great sráid shéarlais mhór
+669,charles street,west sráíd shéarlais thiar
+670,charleston avenue,ascaill charleston
+671,charleston road,bóthar charleston
+672,charleville avenue,ascaill charleville
+673,charleville close,clós charleville
+674,charleville road,bóthar charleville
+675,charlotte way,bealach charlotte
+676,chatham lane,lána chatham
+677,chatham row,rae chatham
+678,chatham street,sráid chatham
+679,chelmsford avenue,ascaill chelmsford
+680,chelmsford close,clós chelmsford
+681,chelmsford lane,lána chelmsford
+682,chelmsford mews,eachlann chelmsford
+683,chelmsford road,bóthar chelmsford
+684,chelsea gardens,gairdíní chelsea
+685,cheltenham place,plás cheltenham
+686,cherry court,cúirt na silíní
+687,cherry orchard avenue,ascaill ghort na silíní
+688,cherry orchard court,cúirt ghort na silíní
+689,cherry orchard crescent,corrán ghort na silíní
+690,cherry orchard drive,céide ghort na silíní
+691,cherry orchard green,faiche ghort na silíní
+692,cherry orchard grove,garrán ghort na silíní
+693,cherry orchard way,bealach ghort na silíní
+694,cherryfield avenue lower,ascaill ghort na silíní
+695,cherryfield avenue upper,ascaill ghort na silíní
+696,cherrymount crescent,corrán chnocán na silíní
+697,cherrymount grove,garrán chnocán na silíní
+698,cherrymount park,páirc chnocán na silíní
+699,cherryorchard parade,paráid ghort na silíní
+700,cherryorchard park,páirc ghort na silíní
+701,chester road,bóthar chester
+702,chesterfield avenue,ascaill chesterfield
+703,chestnut court,cúirt an chrann cnó
+704,christchurch place,plás theampall chríost
+705,church avenue,ascaill an teampaill
+706,church avenue,south ascaill an teampaill theas
+707,church avenue,west ascaill an teampaill thiar
+708,church gardens,gairdíní an teampaill
+709,church lane,lána an teampaill
+710,church lane,south lána an teampaill theas
+711,church park avenue,ascaill pháirc an teampaill
+712,church park court,cúirt pháirc an teampaill
+713,church park drive,céide pháirc an teampaill
+714,church park lawn,plásóg pháirc an teampaill
+715,church park way,bealach pháirc an teampaill
+716,church place,plás an teampaill
+717,church road,bóthar an teampaill
+718,church row,rae an teampaill
+719,church square,cearnóg an teampaill
+720,church street,sráid an teampaill
+721,church street,sráid an teampaill
+722,church street,east sráid an teampaill thoir
+723,church street,new sráid an teampaill nua
+724,church street upper,sráid an teampaill
+725,church terrace,ardán an teampaill
+726,church walk,siúlán an teampaill
+727,churchgate avenue,ascaill gheata an teampaill
+728,churchill terrace,ardán churchill
+729,cian park,páirc chéin
+730,city quay,cé na cathrach
+731,claddagh green,faiche an chladaigh
+732,claddagh road,bóthar an chladaigh
+733,clanawley road,bóthar chlann amhlaoibh
+734,clanboy road,bóthar chlann bhuí
+735,clanbrassil close,clós chlann bhreasail
+736,clanbrassil street lower,sráid chlann bhreasail
+737,clanbrassil street upper,sráid chlann bhreasail
+737,clanbrassil street,sráid chlann bhreasail
+738,clanbrassil terrace,ardán chlann bhreasail
+739,clancarthy road,bóthar chlann chárthaigh
+740,clancy avenue,ascaill mhic fhlannchaidh
+741,clancy road,bóthar mhic fhlannchaidh
+742,clandonagh road,bóthar chlann dhonnchú
+743,clanhugh road,bóthar chlann aodha
+744,clanmahon road,bóthar chlann mhathúna
+745,clanmaurice road,bóthar chlann mhuiris
+746,clanmoyle road,bóthar chluain maoil
+747,clanranald road,bóthar chlann raghnaill
+748,clanwilliam place,plás chlann liam
+749,clare lane,lána an chláraigh
+750,clare park villas,bailtíní pháirc chliara
+751,clare road,bóthar chliara
+752,clare street,sráid an chláraigh
+753,claremont avenue,ascaill claremont
+754,claremont close,clós claremont
+755,claremont court,cúirt claremont
+756,claremont crescent,corrán claremont
+757,claremont drive,céide claremont
+758,claremont road,bóthar claremont
+759,clarence mangan road,bóthar uí mhongáin
+760,clarence mangan square,cearnóg uí mhongáin
+761,clarence place,great plás clarence mór
+762,clarendon market,margadh clarendon
+763,clarendon row,rae clarendon
+764,clarendon street,sráid clarendon
+765,clareville grove,garrán clareville
+766,clareville road,bóthar clareville
+767,clarkes terrace,ardán uí chléirigh
+768,claude road,bóthar claude
+769,cleggan avenue,ascaill an chloiginn
+770,cleggan park,páirc an chloiginn
+771,cleggan road,bóthar an chloiginn
+772,clifden drive,céide an chlocháin
+773,clifden road,bóthar an chlocháin
+774,cliftonville road,bóthar cliftonville
+775,clinchs court,cúirt an chlinsigh
+776,clogher road,bóthar an chlochair
+777,cloister court,cúirt an chlabhstra
+778,"cloisters, the",na clabhstraí
+779,clonard road,bóthar chluain ioraird
+780,clonfert road,bóthar chluain fearta
+781,clonlara road,bóthar chluain lára
+782,clonliffe avenue,ascaill chluain life
+783,clonliffe gardens,gairdíní chluain life
+784,clonliffe road,bóthar chluain life
+785,clonmacnoise road,bóthar chluain mhic nóis
+786,clonmel road,bóthar chluain meala
+787,clonmel street,sráid chluain meala
+788,clonmellon grove,garrán ráistín
+789,clonmore road,bóthar chluain mhór
+790,clonmore terrace,ardán chluain mhór
+791,clonrosse court,cúirt chluain rois
+792,clonrosse drive,céide chluain rois
+793,clonrosse park,páirc chluain rois
+794,clonshaugh avenue,ascaill chluain seach
+795,clonshaugh close,clós chluain seach
+796,clonshaugh court,cúirt chluain seach
+797,clonshaugh crescent,corrán chluain seach
+798,clonshaugh drive,céide chluain seach
+799,clonshaugh glen,gleann chluain seach
+800,clonshaugh green,faiche chluain seach
+801,clonshaugh grove,garrán chluain seach
+802,clonshaugh industrial estate,eastát tionscail chluain
+803,clonshaugh lawn,plásóg chluain seach
+804,clonshaugh park,páirc chluain seach
+805,clonshaugh rise,ard chluain seach
+806,clonshaugh road,bóthar chluain seach
+807,clonshaugh walk,siúlán chluain seach
+808,clonskeagh road,bóthar chluain sceach
+809,clontarf park,páirc chluain tarbh
+810,clontarf road,bóthar chluain tarbh
+811,clonturk avenue,ascaill chluain torc
+812,clonturk gardens,gairdíní chluain torc
+813,clonturk park,páirc chluain torc
+814,cloonlara crescent,corrán chluain lára
+815,cloonlara drive,céide chluain lára
+816,cloonlara road,bóthar chluain lára
+817,"close, the",an clós
+818,clover hill road,bóthar chnoc na seamar
+819,cloverhill drive,céide chnoc na seamar
+820,cloverhill road,bóthar chnoc na seamar
+821,cloyne road,bóthar chluana
+822,clune road,bóthar mhic clúin
+823,clyde lane,lána chluaidh
+824,clyde road,bóthar chluaidh
+825,coburg place,plás coburg
+826,coke lane,lána an chócaigh
+827,colepark avenue,ascaill colepark
+828,colepark drive,céide colepark
+829,colepark green,faiche colepark
+830,colepark road,bóthar colepark
+831,coleraine street,sráid chúil raithin
+832,college green,faiche an choláiste
+833,college street,sráid an choláiste
+834,collier’s avenue,ascaill an choiléirigh
+835,collins avenue,ascaill uí choileáin
+836,collins avenue,east ascaill uí choileáin thoir
+837,collins avenue,extension síneadh ascaill uí choileáin
+838,collins avenue,west ascaill uí choileáin thiar
+839,collins drive,céide uí choileáin
+840,collins green,faiche uí choileáin
+841,collins park,páirc uí choileáin
+842,collins place,plás uí choileáin
+843,collins row,rae uí choileáin
+844,comeragh road,bóthar an chomaraigh
+845,commons street,sráid na coitiantachta
+846,comyn place,plás uí chuimín
+847,con colbert road,bóthar choinn colbaird
+848,connaught parade,paráid chonnacht
+849,connaught street,sráid chonnacht
+850,connolly avenue,ascaill uí chonghaile
+851,connolly gardens,gairdíní uí chonghaile
+852,conor clune road,bóthar chonchúir mhic
+853,conquer hill avenue,ascaill chnoc an bhua
+854,conquer hill road,bóthar chnoc an bhua
+855,constitution hill,cnoc an bhunreachta
+856,convent avenue,ascaill an chlochair
+857,convent close,clós an chlochair
+858,convent place,plás an chlochair
+859,convent view cottages,iostáin radharc an
+860,convent view crescent,corrán radharc an
+861,convent way,bealach an chlochair
+862,conyngham road,bóthar conyngham
+863,cook street,sráid na gcócairí
+864,cooleen avenue,ascaill an chúilín
+865,coolevin road,bóthar chúil aoibhinn
+866,cooley road,bóthar chuaille
+867,coolgariff road,bóthar chúil gharbh
+868,coolgreena close,clós chúil ghréine
+869,coolgreena road,bóthar chúil ghréine
+870,coolock drive,céide na cúlóige
+871,coolock lane,lána na cúlóige
+872,coolock village,sráidbhaile na cúlóige
+873,coolock village close,clós shráidbhaile na
+874,coolrua drive,céide chúil rua
+875,"coombe, the",an com
+876,coombe court,cúirt an choim
+877,cope street,sráid cope
+878,copeland avenue,ascaill chóplainn
+879,copeland grove,garrán chóplainn
+880,copper alley,scabhat an chopair
+881,coppinger row,rae coppinger
+882,cork hill,cnoc chorcaí
+883,cork street,sráid chorcaí
+884,cormac terrace,ardán chormaic
+885,corn exchange place,plás halla an arbhair
+886,corporation street,sráid an bhardais
+887,corrib road,bóthar loch coirib
+888,coulson avenue,ascaill coulson
+889,coultry avenue,ascaill choltraí
+890,coultry crescent,corrán choltraí
+891,coultry drive,céide choltraí
+892,coultry gardens,gairdíní choltraí
+893,coultry grove,garrán choltraí
+894,coultry lawn,plásóg choltraí
+895,coultry park,páirc choltraí
+896,coultry road,bóthar choltraí
+897,coultry way,bealach choltraí
+898,"court, the",an chúirt
+899,"courtyard, the",clós na cúirte
+900,cowper downs,mulláin cowper
+901,cowper drive,céide cowper
+902,cowper gardens,gairdíní cowper
+903,cowper mews,eachlann cowper
+904,cowper road,bóthar cowper
+905,cowper street,sráid cowper
+906,cowper village,sráidbhaile cowper
+907,cows lane,lána na mbó
+908,craigford avenue,ascaill craigford
+909,craigford drive,céide craigford
+910,crampton court,cúirt crampton
+911,crampton quay,cé crampton
+912,crane lane,lána na craenach
+913,crane street,sráid na craenach
+914,cranfield place,plás cranfield
+915,cranmer lane,lána cranmer
+916,cranogue close,clós na crannóige
+917,cranogue road,bóthar na crannóige
+918,crawford avenue,ascaill crawford
+919,crawford terrace,ardán crawford
+920,creighton street,sráid creighton
+921,cremona road,bóthar cremona
+922,cremore avenue,ascaill chríoch mhór
+923,cremore crescent,corrán chríoch mhór
+924,cremore drive,céide chríoch mhór
+925,cremore lawn,plásóg chríoch mhór
+926,cremore park,páirc chríoch mhór
+927,cremore road,bóthar chríoch mhór
+928,crescent gardens,gairdíní an chorráin
+929,crescent place,plás an chorráin
+930,"crescent, the",an corrán
+931,crescent villas,bailtíní an chorráin
+932,crestfield avenue,ascaill ghort an mhullaigh
+933,crestfield close,clós ghort an mhullaigh
+934,crestfield drive,céide ghort an mhullaigh
+935,crestfield park,páirc ghort an mhullaigh
+936,crestfield road,bóthar ghort an mhullaigh
+937,croaghpatrick road,bóthar chruach phádraig
+938,croftwood crescent,corrán choill na croite
+939,croftwood drive,céide choill na croite
+940,croftwood gardens,gairdíní choill na croite
+941,croftwood green,faiche choill na croite
+942,croftwood grove,garrán choill na croite
+943,croftwood park,páirc choill na croite
+944,cromcastle avenue,ascaill chaisleán na croma
+945,cromcastle close,clós chaisleán na croma
+946,cromcastle drive,céide chaisleán na croma
+947,cromcastle green,faiche chaisleán na croma
+948,cromcastle park,páirc chaisleán na croma
+949,cromcastle road,bóthar chaisleán na croma
+950,cromlech court,cúirt na cromleice
+951,cromwell’s fort road,bóthar dhún chromail
+952,crotty avenue,ascaill uí chrotaigh
+953,crow street,sráid crow
+954,crown alley,scabhat na corónach
+955,croydon gardens,gairdíní croydon
+956,croydon green,faiche croydon
+957,croydon park avenue,ascaill pháirc croydon
+958,croydon terrace,ardán croydon
+959,crumlin park,páirc chromghlinne
+960,crumlin road,bóthar chromghlinne
+961,crumlin village,sráidbhaile chromghlinne
+962,cuala road,bóthar chualann
+963,cuffe lane,lána cuffe
+964,cuffe street,sráid cuffe
+965,cullenswood gardens,gairdíní fhiodh cuillinn
+966,cullenswood park,páirc fhiodh cuillinn
+967,cullinswood road,bóthar fhiodh cuillinn
+968,cumberland court,cúirt cumberland
+969,cumberland road,bóthar cumberland
+970,cumberland street,north sráid cumberland thuaidh
+971,cumberland street,south sráid cumberland theas
+972,curlew road,bóthar an chorrshléibhe
+973,curracloe drive,céide churrach cló
+974,curved street,an chuarshráid
+975,curzon street,sráid curzon
+976,custom house dock,duga theach an chustaim
+977,custom house quay,cé theach an chustaim
+978,cymric road,bóthar cymric
+979,dalcassian downs,mulláin dhál gcais
+980,dalymount lane,lána chnocán uí dhálaigh
+981,dame court,cúirt an dáma
+982,dame lane,lána an dáma
+983,dame street,sráid an dáma
+984,daneswell road,bóthar thobar na lochlannach
+985,daniel street,sráid mhic dhónaill
+986,danieli drive,céide danieli
+987,danieli road,bóthar danieli
+988,dargle road,bóthar na deargaile
+989,darley court,cúirt darley
+990,darley street,sráid darley
+991,darley’s terrace,ardán darley
+992,darling estate,eastát darling
+993,dartmouth lane,lána dartmouth
+994,dartmouth place,plás dartmouth
+995,dartmouth road,bóthar dartmouth
+996,dartmouth square,east cearnóg dartmouth thoir
+997,dartmouth square,north cearnóg dartmouth
+998,dartmouth square,south cearnóg dartmouth theas
+999,dartmouth square,west cearnóg dartmouth thiar
+1000,dartmouth terrace,ardán dartmouth
+1001,dartmouth walk,siúlán dartmouth
+1002,dartry cottages,iostáin dhartraí
+1003,dartry park,páirc dhartraí
+1004,dartry road,bóthar dhartraí
+1005,david park,páirc dháibhí
+1006,david road,bóthar dháibhí
+1007,davis place,plás an dáibhisigh
+1008,davitt road,bóthar mhic dháibhéid
+1009,dawson court,cúirt dhásain
+1010,dawson lane,lána dhásain
+1011,dawson street,sráid dhásain
+1012,de burgh road,bóthar an bhúrcaigh
+1013,de courcy square,cearnóg an chúrsaigh
+1014,de valera place,plás de valera
+1015,dean street,sráid an déin
+1016,dean swift green,faiche an déin swift
+1017,dean swift road,bóthar an déin swift
+1018,dean swift square,cearnóg an déin swift
+1019,deanstown avenue,ascaill bhaile an déanaigh
+1020,deanstown drive,céide bhaile an déanaigh
+1021,deanstown green,faiche bhaile an déanaigh
+1022,deanstown park,páirc bhaile an déanaigh
+1023,deanstown road,bóthar bhaile an déanaigh
+1024,decies road,bóthar na ndéise
+1025,delville road,bóthar delville
+1026,delvin road,bóthar dhealbhna
+1027,"demesne, the",an diméin
+1028,denmark street,great sráid na danmhairge mhór
+1029,denzille lane,lána denzille
+1030,dermot o’hurley avenue,ascaill dhiarmada uí
+1031,derravaragh road,bóthar loch dairbhreach
+1032,derry drive,céide dhoire
+1033,derry park,páirc dhoire
+1034,derry road,bóthar dhoire
+1035,derrynane gardens,gairdíní dhoire fhionnáin
+1036,derrynane parade,paráid dhoire fhionnáin
+1037,desmond street,sráid dheasumhan
+1038,devenish road,bóthar dhaimhinse
+1039,deverell place,plás deverell
+1040,devery’s lane,lána an deibhriúsaigh
+1041,devoy road,bóthar uí dhubhuí
+1042,digges lane,lána digges
+1043,digges street upper,sráid digges
+1044,dillon place,south plás an diolúnaigh theas
+1045,dingle road,bóthar an daingin
+1046,distillery road,bóthar na drioglainne
+1047,dodder terrace,ardán na dothra
+1048,dodder view cottages,iostáin radharc na dothra
+1049,d’olier street,sráid d’olier
+1050,dollymount avenue,ascaill chnocán doirinne
+1051,dollymount grove,garrán chnocán doirinne
+1052,dollymount park,páirc chnocán doirinne
+1053,dollymount rise,ard chnocán doirinne
+1054,dolmen court,cúirt na dolmaine
+1055,dolphin avenue,ascaill an charnáin
+1056,dolphin park,páirc an charnáin
+1057,dolphin road,bóthar an charnáin
+1058,dolphin’s barn street,sráid an charnáin
+1059,dominick lane,lána dhoiminic
+1060,dominick place,plás dhoiminic
+1061,dominick street lower,sráid dhoiminic
+1062,dominick street upper,sráid dhoiminic
+1063,donaghmede avenue,ascaill dhomhnach míde
+1064,donaghmede drive,céide dhomhnach míde
+1065,donaghmede park,páirc dhomhnach míde
+1066,donaghmede road,bóthar dhomhnach míde
+1067,donard road,bóthar dhún ard
+1068,donelan avenue,ascaill uí dhónalláin
+1069,donnybrook close,clós dhomhnach broc
+1070,donnybrook court,cúirt dhomhnach broc
+1071,donnybrook road,bóthar dhomhnach broc
+1072,donnycarney road,bóthar dhomhnach cearna
+1073,donore avenue,ascaill dhún uabhair
+1074,donore road,bóthar dhún uabhair
+1075,donore terrace,ardán dhún uabhair
+1076,donovan lane,lána uí dhonnabháin
+1077,doon avenue,ascaill an dúin
+1078,doon court,cúirt an dúin
+1079,doris street,sráid uí dhúrais
+1080,dorset lane,lána dorset
+1081,dorset place,plás dorset
+1082,dorset street lower,sráid dorset
+1083,dorset street upper,sráid dorset
+1084,dowland road,bóthar dowland
+1085,dowling’s court,cúirt uí dhúllaing
+1086,downpatrick road,bóthar dhún pádraig
+1087,dowth avenue,ascaill dhubhadh
+1088,doyles lane,lána uí dhúill
+1089,drapier green,faiche drapier
+1090,drapier road,bóthar drapier
+1091,drimnagh road,bóthar dhroimeanaigh
+1092,dromard avenue,ascaill an droma aird
+1093,dromard road,bóthar an droma aird
+1094,dromawling road,bóthar an droma álainn
+1095,drombawn avenue,ascaill an droma bháin
+1096,dromeen avenue,ascaill an droma mhín
+1097,dromlee crescent,corrán dhroim lao
+1098,dromnanane park,páirc dhroim na néan
+1099,dromnanane road,bóthar dhroim na néan
+1100,dromore road,bóthar an droma mhóir
+1101,druid court,cúirt an draoi
+1102,drumalee avenue,ascaill dhroim an lao
+1103,drumalee court,cúirt dhroim an lao
+1104,drumalee drive,céide dhroim an lao
+1105,drumalee grove,garrán dhroim an lao
+1106,drumalee park,páirc dhroim an lao
+1107,drumalee road,bóthar dhroim an lao
+1108,drumcliffe drive,céide dhroim chliabh
+1109,drumcliffe road,bóthar dhroim chliabh
+1110,drumcondra park,páirc dhroim conrach
+1111,drumcondra road lower,bóthar dhroim conrach
+1112,drumcondra road upper,bóthar dhroim conrach
+1113,drumfinn avenue,ascaill dhroim fionn
+1114,drumfinn park,páirc dhroim fionn
+1115,drumfinn road,bóthar dhroim fionn
+1116,drummond place,plás drummond
+1117,drury street,an bóthar beag
+1118,dufferin avenue,ascaill an duifriain
+1119,duke lane,lána an diúic
+1120,duke lane upper,lána an diúic
+1121,duke street,sráid an diúic
+1122,dunard avenue,ascaill dhún ard
+1123,dunard drive,céide dhún ard
+1124,dunard park,páirc dhún ard
+1125,dunard road,bóthar dhún ard
+1126,dunard walk,siúlán dhún ard
+1127,dundaniel road,bóthar dhún dónaill
+1128,dunluce road,bóthar dhún libhse
+1129,dunmanus road,bóthar dhún mánais
+1130,dunne street,sráid uí dhoinn
+1131,dunree park,páirc an dúin riabhaigh
+1132,dunseverick road,bóthar dhún sobhairce
+1133,dunsink avenue,ascaill dhún sinche
+1134,dunsink drive,céide dhún sinche
+1135,dunsink gardens,gairdíní dhún sinche
+1136,dunsink green,faiche dhún sinche
+1137,dunsink park,páirc dhún sinche
+1138,dunsink road,bóthar dhún sinche
+1139,dunville avenue,ascaill dunville
+1140,durham road,bóthar durham
+1141,durrow road,bóthar dharú
+1142,eagle hill avenue,ascaill chnoc an iolair
+1143,eagle park,páirc an iolair
+1144,earl street,north sráid an iarla thuaidh
+1145,earl street,south sráid an iarla theas
+1146,earls court,cúirt an iarla
+1147,earlsfort terrace,ardán phort an iarla
+1148,east link bridge,droichead an nascbhóthair
+1149,east road,an bóthar thoir
+1150,east wall road,bóthar an phoirt thoir
+1151,eastmoreland lane,lána eastmoreland
+1152,eastmoreland place,plás eastmoreland
+1153,eaton road,bóthar eaton
+1154,eaton square,cearnóg eaton
+1155,ebenezer terrace,ardán ebenezer
+1156,eblana villas,bailtíní eblana
+1157,eccles court,cúirt eccles
+1158,eccles place,plás eccles
+1159,eccles street,sráid eccles
+1160,echlin street,sráid echlin
+1161,eden quay,cé éidin
+1162,eden terrace,ardán éidin
+1163,edenmore avenue,ascaill éadan mór
+1164,edenmore crescent,corrán éadan mór
+1165,edenmore drive,céide éadan mór
+1166,edenmore gardens,gairdíní éadan mór
+1167,edenmore green,faiche éadan mór
+1168,edenmore grove,garrán éadan mór
+1169,edenmore park,páirc éadan mór
+1169,edenmore, éadan mór
+1170,edenvale road,bóthar edenvale
+1171,effra road,bóthar éafra
+1172,eglinton park,páirc eglinton
+1173,eglinton road,bóthar eglinton
+1174,eglinton square,cearnóg eglinton
+1175,eglinton terrace,ardán eglinton
+1176,eklad park,páirc eklad
+1177,elgin road,bóthar elgin
+1178,elizabeth street,sráid eilíse
+1179,ellenfield road,bóthar achadh eibhlín
+1180,ellesmere avenue,ascaill ellesmere
+1181,ellis court,cúirt ellis
+1182,ellis quay,cé ellis
+1183,elm mount avenue,ascaill chnocán an
+1184,elm mount close,clós chnocán an leamháin
+1185,elm mount court,cúirt chnocán an leamháin
+1186,elm mount crescent,corrán chnocán an
+1187,elm mount drive,céide chnocán an
+1188,elm mount grove,garrán chnocán an
+1189,elm mount lawn,plásóg chnocán an
+1190,elm mount park,páirc chnocán an
+1191,elm mount rise,ard chnocán an leamháin
+1192,elm mount road,bóthar chnocán an
+1193,elm mount view,radharc chnocán an
+1194,elm park,páirc an leamháin
+1195,elm park terrace,ardán pháirc an leamháin
+1196,elm road,bóthar an leamháin
+1197,elmdale close,clós ghleanntán an
+1198,elmdale crescent,corrán ghleanntán an
+1199,elmdale drive,céide ghleanntán an
+1200,elmdale park,páirc ghleanntán an
+1201,elmfield avenue,ascaill ghort an leamháin
+1202,elmfield close,clós ghort an leamháin
+1203,elmfield court,cúirt ghort an leamháin
+1204,elmfield crescent,corrán ghort an leamháin
+1205,elmfield drive,céide ghort an leamháin
+1206,elmfield green,faiche ghort an leamháin
+1207,elmfield grove,garrán ghort an leamháin
+1208,elmfield lawn,plásóg ghort an leamháin
+1209,elmfield park,páirc ghort an leamháin
+1210,elmfield rise,ard ghort an leamháin
+1211,elmfield walk,siúlán ghort an leamháin
+1212,elmfield way,bealach ghort an leamháin
+1213,elmpark avenue,ascaill pháirc an leamháin
+1214,elmwood avenue lower,ascaill choill an leamháin
+1215,elmwood avenue upper,ascaill choill an leamháin
+1216,elton court,cúirt elton
+1217,elton drive,céide elton
+1218,elton park,páirc elton
+1219,elton walk,siúlán elton
+1220,ely place,plás íle
+1221,ely place upper,plás íle
+1222,emerald cottages,iostáin iathghlasa
+1223,emerald place,plás iathghlas
+1224,emerald square,cearnóg iathghlas
+1225,emerald street,sráid iathghlas
+1226,emerald terrace,ardán iathghlas
+1227,emmet court,cúirt emmet
+1228,emmet road,bóthar emmet
+1229,emmet street,sráid emmet
+1230,emor street,sráid eimhire
+1231,emorville avenue,ascaill emorville
+1232,enaville avenue,ascaill enaville
+1233,enaville road,bóthar enaville
+1234,ennafort avenue,ascaill dhún éanna
+1235,ennafort court,cúirt dhún éanna
+1236,ennafort drive,céide dhún éanna
+1237,ennafort grove,garrán dhún éanna
+1238,ennafort park,páirc dhún éanna
+1239,ennafort road,bóthar dhún éanna
+1240,ennel avenue,ascaill loch ainninn
+1241,ennel drive,céide loch ainninn
+1242,ennel park,páirc loch ainninn
+1243,ennis grove,garrán inse
+1244,enniskerry road,bóthar áth na sceire
+1245,erne place,plás na héirne
+1246,erne place lower,plás na héirne
+1247,erne street lower,sráid na héirne
+1248,erne street upper,sráid na héirne
+1249,erne terrace,front ardán na héirne
+1250,erne terrace,rere cúl ardán na héirne
+1251,errigal gardens,gairdíní na hearagaile
+1252,errigal road,bóthar na hearagaile
+1253,erris road,bóthar iorrais
+1254,esker villas,bailtíní na heascrach
+1255,esmond avenue,ascaill easmainn
+1256,esposito road,bóthar esposito
+1257,essex quay,cé essex
+1258,essex street,east sráid essex thoir
+1259,essex street,west sráid essex thiar
+1260,estate avenue,ascaill an eastáit
+1261,estate cottages,iostáin an eastáit
+1262,eugene street,sráid eoghain
+1263,eustace street,sráid an iústásaigh
+1264,everton avenue,ascaill everton
+1265,exchange court,cúirt an mhalartáin
+1266,exchange place,plás an mhalartáin
+1267,exchange street lower,sráid an mhalartáin
+1268,exchange street upper,sráid an mhalartáin
+1269,exchequer street,sráid an chiste
+1270,fade street,sráid mhic pháid
+1271,fairfield avenue,ascaill pháirc an aonaigh
+1272,fairfield park,páirc an aonaigh
+1273,fairfield road,bóthar an ghoirt aoibhinn
+1274,fairlawn park,páirc na plasóige aoibhne
+1275,fairlawn road,bóthar na plasóige aoibhne
+1276,fairview avenue lower,ascaill fhionnradhairc
+1277,fairview avenue upper,ascaill fhionnradhairc
+1278,fairview green,faiche fhionnradhairc
+1279,fairview terrace,ardán fhionnradhairc
+1280,fairways avenue,ascaill na mínleach
+1281,fairways green,faiche na mínleach
+1282,fairways grove,garrán na mínleach
+1283,fairways park,páirc na mínleach
+1284,faith avenue,ascaill an chreidimh
+1285,falcarragh road,bóthar an fháil charraigh
+1286,farney park,páirc fhearnaí
+1287,farnham crescent,corrán fhearnáin
+1288,farnham drive,céide fhearnáin
+1289,fassaugh avenue,ascaill an fhásaigh
+1290,fassaugh road,bóthar an fhásaigh
+1291,faughart road,bóthar fhochairde
+1292,fenian street,sráid na bhfíníní
+1293,fergus road,bóthar fhearghasa
+1294,ferguson road,bóthar mhic fhearghais
+1295,ferndale avenue,ascaill ghleanntán na
+1296,ferndale road,bóthar ghleanntán na
+1297,ferns road,bóthar fhearna
+1298,fernvale drive,céide ghleann na raithní
+1299,ferrard road,bóthar fhir arda
+1300,ferrycarrig avenue,ascaill chaladh na carraige
+1301,ferrycarrig drive,céide chaladh na carraige
+1302,ferrycarrig green,faiche chaladh na carraige
+1303,ferrycarrig park,páirc chaladh na carraige
+1304,ferrycarrig road,bóthar chaladh na carraige
+1305,fertullagh road,bóthar fhear tulach
+1306,field avenue,ascaill field
+1307,findlater place,plás findlater
+1308,findlater street,sráid findlater
+1309,fingal street,sráid fhine gall
+1310,fingall place,plás fhine gall
+1311,finglas park,páirc fhionnghlaise
+1312,finglas place,plás fhionnghlaise
+1313,finglas road,bóthar fhionnghlaise
+1314,finglas road,old seanbhóthar fhionnghlaise
+1315,finglaswood road,bóthar choill fhionnghlaise
+1316,finn street,sráid uí fhinn
+1317,first avenue,ascaill a haon
+1318,fishamble street,sráid sheamlas an éisc
+1319,fitzgerald street,sráid mhic gearailt
+1320,fitzgibbon lane,lána mhic giobúin
+1321,fitzgibbon street,sráid mhic giobúin
+1322,fitzmaurice road,bóthar mhic mhuiris
+1323,fitzroy avenue,ascaill fitzroy
+1324,fitzwilliam court,cúirt mhic liam
+1325,fitzwilliam lane,lána mhic liam
+1326,fitzwilliam place,plás mhic liam
+1327,fitzwilliam place,north plás mhic liam thuaidh
+1328,fitzwilliam quay,cé mhic liam
+1329,fitzwilliam square,east cearnóg mhic liam thoir
+1330,fitzwilliam square,north cearnóg mhic liam
+1331,fitzwilliam square,south cearnóg mhic liam theas
+1332,fitzwilliam square,west cearnóg mhic liam thiar
+1333,fitzwilliam street,sráid mhic liam
+1334,fitzwilliam street lower,sráid mhic liam
+1335,fitzwilliam street upper,sráid mhic liam
+1336,fleet street,sráid na toinne
+1337,fleming road,bóthar an phléimeannaigh
+1338,fleming’s place,plás an phléimeannaigh
+1339,florence street,sráid florence
+1340,foley street,sráid uí fhoghlú
+1341,fontenoy street,sráid fontenoy
+1342,forbes lane,lána fhoirbis
+1343,forbes street,sráid fhoirbis
+1344,fortfield gardens,gairdíní ghort an dúin
+1345,fortfield road,bóthar ghort an dúin
+1346,fortfield terrace,ardán ghort an dúin
+1347,forth road,bóthar fhothart
+1348,fortview avenue,ascaill radharc an dúin
+1349,foster place,plás foster
+1350,foster place,north plás foster thuaidh
+1351,foster terrace,ardán foster
+1352,fountain place,plás an fhuaráin
+1353,fourth avenue,ascaill a ceathair
+1354,fownes street lower,sráid fownes
+1355,fownes street upper,sráid fownes
+1356,foxfield avenue,ascaill ghort an tsionnaigh
+1357,foxfield crescent,corrán ghort an tsionnaigh
+1358,foxfield drive,céide ghort an tsionnaigh
+1359,foxfield green,faiche ghort an tsionnaigh
+1360,foxfield grove,garrán ghort an tsionnaigh
+1361,foxfield lawn,plásóg ghort an tsionnaigh
+1362,foxfield park,páirc ghort an tsionnaigh
+1363,foxfield road,bóthar ghort an tsionnaigh
+1364,foxfield saint john gort,an tsionnaigh san
+1365,foxhill avenue,ascaill chnoc an tsionnaigh
+1366,foxhill close,clós chnoc an tsionnaigh
+1367,foxhill court,cúirt chnoc an tsionnaigh
+1368,foxhill crescent,corrán chnoc an
+1369,foxhill drive,céide chnoc an tsionnaigh
+1370,foxhill green,faiche chnoc an
+1371,foxhill grove,garrán chnoc an
+1372,foxhill lawn,plásóg chnoc an
+1373,foxhill park,páirc chnoc an tsionnaigh
+1374,foxhill way,bealach chnoc an
+1375,fox’s lane,lána mhic an tsionnaigh
+1376,foyle road,bóthar an fheabhail
+1377,francis street,sráid san proinsias
+1378,frankfort avenue,ascaill frankfort
+1379,frankfort cottages,iostáin frankfort
+1380,frederick court,cúirt fhreidric
+1381,frederick lane,north lána fhreidric thuaidh
+1382,frederick street,north sráid fhreidric thuaidh
+1383,frederick street,south sráid fhreidric theas
+1384,frenchman’s lane,lána an fhrancaigh
+1385,friary avenue,ascaill na mainistreach
+1386,friary grove,garrán na mainistreach
+1387,fumbally lane,lána fumbally
+1388,furry park court,cúirt pháirc an aitinn
+1389,furry park road,bóthar pháirc an aitinn
+1390,the gables,na beanna
+1391,gaelic street,sráid na gaeilge
+1392,gallanstown green,faiche bhaile an
+1393,gallanstown lane,lána bhaile an ghalóntaigh
+1394,gallaun road,bóthar an ghalláin
+1395,galmoy road,bóthar ghabhalmhaí
+1396,galtymore close,clós chnoc mór na
+1397,galtymore drive,céide chnoc mór na
+1398,galtymore park,páirc chnoc mór na
+1399,galtymore road,bóthar chnoc mór na
+1400,garden lane,lána an ghairdín
+1401,garden terrace,ardán an ghairdín
+1402,garden view,radharc an ghairdín
+1403,gardiner lane,lána ghairdinéir
+1404,gardiner place,plás ghairdinéir
+1405,gardiner row,rae ghairdinéir
+1406,gardiner street lower,sráid ghairdinéir
+1407,gardiner street middle,sráid ghairdinéir
+1408,gardiner street upper,sráid ghairdinéir
+1408,gardiner street,sráid ghairdinéir
+1409,garryowen road,bóthar gharraí eoin
+1410,gartan avenue,ascaill ghartáin
+1411,garville avenue,ascaill garville
+1412,garville avenue upper,ascaill garville
+1413,garville drive,céide garville
+1414,garville lane,lána garville
+1415,garville mews,eachlann garville
+1416,garville place,plás garville
+1417,garville road,bóthar garville
+1418,geoffrey keating road,bóthar sheathrúin céitinn
+1419,george’s dock,duga sheoirse
+1420,george’s hill,cnoc sheoirse
+1421,george’s lane,lána sheoirse
+1422,george’s place,plás sheoirse
+1423,george’s quay,cé sheoirse
+1424,george’s road,bóthar sheoirse
+1425,george’s wharf,cé sheoirse
+1426,gerald street,sráid ghearailt
+1427,geraldine street,sráid na ngearaltach
+1428,gilbert road,bóthar ghilbeirt
+1429,gilford avenue,ascaill gilford
+1430,gilford court,cúirt gilford
+1431,gilford drive,céide gilford
+1432,gilford park,páirc gilford
+1433,gilford road,bóthar gilford
+1434,gilford terrace,ardán gilford
+1435,glandore road,bóthar chuan dor
+1436,glasanaon park,páirc ghlas naíon
+1437,glasanaon road,bóthar ghlas naíon
+1438,glasaree road,bóthar ghlas an rí
+1439,glasilawn avenue,ascaill ghlasoileáin
+1440,glasilawn road,bóthar ghlasoileáin
+1441,glasmeen road,bóthar ghlas mín
+1442,glasnamana place,plás ghlas na manach
+1443,glasnamana road,bóthar ghlas na manach
+1444,glasnevin avenue,ascaill ghlas naíon
+1445,glasnevin court,cúirt ghlas naíon
+1446,glasnevin downs,mulláin ghlas naíon
+1447,glasnevin drive,céide ghlas naíon
+1448,glasnevin hill,cnoc ghlas naíon
+1449,glasnevin park,páirc ghlas naíon
+1450,glebe view,radharc na gléibe
+1451,glen arm square,cearnóg ghleann arma
+1452,glenaan road,bóthar ghleann athain
+1453,glenard avenue,ascaill ghleann ard
+1454,glenarm avenue,ascaill ghleann arma
+1455,glenarriff road,bóthar ghleanna aireamh
+1456,glenaulin drive,céide ghleann álainn
+1457,glenaulin park,páirc ghleann álainn
+1458,glenavy park,páirc lann abhaigh
+1459,glenayle road,bóthar ghleann áille
+1460,glenayr road,bóthar ghleann áir
+1461,glenbeigh park,páirc ghleann beithe
+1462,glenbeigh road,bóthar ghleann beithe
+1463,glenbrook road,bóthar ghleann an
+1464,glencar road,bóthar ghleann an chairthe
+1465,glencloy road,bóthar ghleann cloiche
+1466,glencorp road,bóthar ghleann corp
+1467,glendalough road,bóthar ghleann dá loch
+1468,glendhu park,páirc ghleann dubh
+1469,glendhu road,bóthar ghleann dubh
+1470,glendun road,bóthar ghleann doinne
+1471,glenealy road,bóthar ghleann fhaidhle
+1472,glenfarne road,bóthar ghleann fearna
+1473,glengarriff crescent,corrán an ghleanna
+1474,glengarriff parade,paráid an ghleanna
+1475,glenhill avenue,ascaill chnoc an ghleanna
+1476,glenhill court,cúirt chnoc an ghleanna
+1477,glenhill drive,céide chnoc an ghleanna
+1478,glenhill grove,garrán chnoc an ghleanna
+1479,glenhill road,bóthar chnoc an ghleanna
+1480,glenhill villas,bailtíní chnoc an ghleanna
+1481,glenmalure park,páirc ghleann molúra
+1482,glenmalure square,cearnóg ghleann molúra
+1483,glenmore road,bóthar ghleann mór
+1484,glenshesk road,bóthar ghleann seisce
+1485,glenties drive,céide na ngleanntach
+1486,glenties park,páirc na ngleanntach
+1487,glentow road,bóthar ghleann tó
+1488,glentworth park,páirc glentworth
+1489,glenwood road,bóthar ghleann na coille
+1490,glin avenue,ascaill an ghleanna
+1491,glin crescent,corrán an ghleanna
+1492,glin drive,céide an ghleanna
+1493,glin grove,garrán an ghleanna
+1494,glin park,páirc an ghleanna
+1495,glin road,bóthar an ghleanna
+1495,glin court,cuirt an ghleanna
+1496,gloucester place,plás gloucester
+1497,gloucester place upper,plás gloucester
+1498,gloucester street,south sráid gloucester theas
+1499,glover’s alley,scabhat an lámhainneora
+1500,gofton hall,halla gofton
+1501,golden lane,lána an óir
+1502,goldenbridge avenue,ascaill an droichid órga
+1503,goldenbridge gardens,gairdíní an droichid órga
+1504,goldenbridge terrace,ardán an droichid órga
+1505,goldenbridge walk,siúlán an droichid órga
+1506,goldsmith street,sráid goldsmith
+1507,gordon place,plás gordon
+1508,gordon street,sráid gordon
+1509,gorsefield court,cúirt ghort an aitinn
+1510,gortbeg avenue,ascaill an ghoirt bhig
+1511,gortbeg drive,céide an ghoirt bhig
+1512,gortbeg park,páirc an ghoirt bhig
+1513,gortbeg road,bóthar an ghoirt bhig
+1514,gortmore avenue,ascaill an ghoirt mhóir
+1515,gortmore drive,céide an ghoirt mhóir
+1516,gortmore park,páirc an ghoirt mhóir
+1517,gortmore road,bóthar an ghoirt mhóir
+1518,grace court,cúirt na ngrás
+1519,grace park avenue,ascaill pháirc na ngrás
+1520,grace park gardens,gairdíní pháirc na ngrás
+1521,grace park,heights arda pháirc na ngrás
+1522,grace park lawn,plásóg pháirc na ngrás
+1523,grace park,meadows cluainte pháirc na ngrás
+1524,grace park road,bóthar pháirc na ngrás
+1525,grace park terrace,ardán pháirc na ngrás
+1526,gracefield avenue,ascaill ghort na ngrás
+1527,gracefield court,cúirt ghort na ngrás
+1528,gracefield road,bóthar ghort na ngrás
+1529,grafton street,sráid grafton
+1530,graigue court,cúirt na gráige
+1531,granby lane,lána granby
+1532,granby place,plás granby
+1533,granby row,rae granby
+1534,grand canal place,plás na canálach móire
+1535,grand canal quay,cé na canálach móire
+1536,grand canal street lower,sráid na canálach móire
+1537,grand canal street upper,sráid na canálach móire
+1537,grand canal street,sráid na canálach móire
+1538,grand parade,an pharáid mhór
+1539,grange abbey crescent,corrán mhainistir na gráinsí
+1540,grange abbey drive,céide mhainistir na gráinsí
+1541,grange abbey grove,garrán mhainistir na gráinsí
+1542,grange park avenue,ascaill pháirc na gráinsí
+1543,grange park close,clós pháirc na gráinsí
+1544,grange park crescent,corrán pháirc na gráinsí
+1545,grange park drive,céide pháirc na gráinsí
+1546,grange park green,faiche pháirc na gráinsí
+1547,grange park grove,garrán pháirc na gráinsí
+1548,grange park rise,ard pháirc na gráinsí
+1549,grange park road,bóthar pháirc na gráinsí
+1550,grange park view,radharc pháirc na gráinsí
+1551,grange park walk,siúlán pháirc na gráinsí
+1552,grange road,bóthar na gráinsí
+1553,grangegorman lower,gráinseach ghormáin
+1554,grangegorman upper,gráinseach ghormáin
+1554,grangegorman,gráinseach ghormáin
+1555,grangemore avenue,ascaill na gráinsí móire
+1556,grangemore court,cúirt na gráinsí móire
+1557,grangemore crescent,corrán na gráinsí móire
+1558,grangemore drive,céide na gráinsí móire
+1559,grangemore grove,garrán na gráinsí móire
+1560,grangemore lawn,plásóg na gráinsí móire
+1561,grangemore park,páirc na gráinsí móire
+1562,grangemore rise,ard na gráinsí móire
+1563,grangemore road,bóthar na gráinsí móire
+1564,granite place,plás an eibhir
+1565,granite terrace,ardán an eibhir
+1566,grantham place,plás grantham
+1567,grantham street,sráid grantham
+1568,grant’s row,rae an ghróntaigh
+1569,grattan court,east cúirt grattan thoir
+1570,grattan crescent,corrán grattan
+1571,grattan parade,paráid grattan
+1572,grattan place,plás grattan
+1573,grattan street,sráid grattan
+1574,gray square,cearnóg an ghraeigh
+1575,gray street,sráid an ghraeigh
+1576,great western avenue,ascaill iarnród an iarthair
+1577,great western square,cearnóg iarnród an iarthair
+1578,great western villas,bailtíní iarnród an iarthair
+1579,greek street,sráid na gréigise
+1580,green street,sráid na faiche
+1581,green street,east sráid na faiche thoir
+1582,"green, the",an fhaiche
+1583,greencastle avenue,ascaill an chaisleáin ghlais
+1584,greencastle crescent,corrán an chaisleáin ghlais
+1585,greencastle drive,céide an chaisleáin ghlais
+1586,greencastle parade,paráid an chaisleáin ghlais
+1587,greencastle park,páirc an chaisleáin ghlais
+1588,greencastle road,bóthar an chaisleáin ghlais
+1589,greendale avenue,ascaill an ghleanntáin
+1590,greendale road,bóthar an ghleanntáin
+1591,greenfield crescent,corrán an ghoirt ghlais
+1592,greenfield park,páirc an ghoirt ghlais
+1593,greenfield place,plás an ghoirt ghlais
+1594,greenlea avenue,ascaill an bháin ghlais
+1595,greenlea drive,céide an bháin ghlais
+1596,greenlea grove,garrán an bháin ghlais
+1597,greenlea park,páirc an bháin ghlais
+1598,greenlea place,plás an bháin ghlais
+1599,greenlea road,bóthar an bháin ghlais
+1600,greenmount avenue,ascaill an chnocáin ghlais
+1601,greenmount court,cúirt an chnocáin ghlais
+1602,greenmount lane,lána an chnocáin ghlais
+1603,greenmount road,bóthar an chnocáin ghlais
+1604,greenmount square,cearnóg an chnocáin
+1605,greenore terrace,ardán an ghrianphoirt
+1606,greenville avenue,ascaill greenville
+1607,greenville parade,paráid greenville
+1608,greenville terrace,ardán greenville
+1609,greenwich court,cúirt greenwich
+1610,greenwood avenue,ascaill na coille glaise
+1611,greenwood close,clós na coille glaise
+1612,greenwood court,cúirt na coille glaise
+1613,greenwood drive,céide na coille glaise
+1614,greenwood lawn,plásóg na coille glaise
+1615,greenwood park,páirc na coille glaise
+1616,greenwood walk,siúlán na coille glaise
+1617,greenwood way,bealach na coille glaise
+1618,grenville lane,lána grenville
+1619,grenville street,sráid grenville
+1620,griffith avenue,ascaill uí ghríofa
+1621,griffith close,clós uí ghríofa
+1622,griffith court,cúirt uí ghríofa
+1623,griffith downs,mulláin uí ghríofa
+1624,griffith drive,céide uí ghríofa
+1625,griffith parade,paráid uí ghríofa
+1626,griffith road,bóthar uí ghríofa
+1627,griffith walk,siúlán uí ghríofa
+1628,grosvenor court,cúirt grosvenor
+1629,grosvenor lane,lána grosvenor
+1630,grosvenor park,páirc grosvenor
+1631,grosvenor place,plás grosvenor
+1632,grosvenor road,bóthar grosvenor
+1633,grosvenor square,cearnóg grosvenor
+1634,grosvenor villas,bailtíní grosvenor
+1635,grove avenue,ascaill an gharráin
+1636,grove court,cúirt an gharráin
+1637,grove industrial estate,eastát tionscail an gharráin
+1638,grove lane,lána an gharráin
+1639,grove park,páirc an gharráin
+1640,grove park avenue,ascaill pháirc an gharráin
+1641,grove park crescent,corrán pháirc an gharráin
+1642,grove park drive,céide pháirc an gharráin
+1643,grove park road,bóthar pháirc an gharráin
+1644,grove road,bóthar an gharráin
+1645,"grove, the",an garrán
+1646,grove wood,coill an gharráin
+1647,gulistan cottages,iostáin gulistan
+1648,gulistan place,plás gulistan
+1649,gulistan terrace,ardán gulistan
+1650,gurteen avenue,ascaill an ghoirtín
+1651,gurteen park,páirc an ghoirtín
+1652,gurteen road,bóthar an ghoirtín
+1653,haddington place,plás haddington
+1654,haddington road,bóthar haddington
+1655,haddington way,west bealach haddington thiar
+1656,haddon court,cúirt uí aidín
+1657,haddon park,páirc ui aidín
+1658,haddon road,bóthar uí aidín
+1659,hagan’s court,cúirt uí ágáin
+1660,halliday road,bóthar halliday
+1661,halliday square,cearnóg halliday
+1662,halpins row,rae uí ailpín
+1663,halston street,sráid halston
+1664,hamilton court,cúirt hamaltúin
+1665,hamilton street,sráid hamaltúin
+1666,hammond lane,lána an chrochaire
+1667,hammond street,sráid an chrochaire
+1668,hampstead avenue,ascaill hampstead
+1669,hampstead court,cúirt hampstead
+1670,hampstead park,páirc hampstead
+1671,hampton court,cúirt hampton
+1672,hampton green,faiche hampton
+1673,hampton square,cearnóg hampton
+1674,hanbury lane,lána hanbury
+1675,hannaville park,páirc hannaville
+1676,hanover lane,lána hanover
+1677,hanover quay,cé hanover
+1678,hanover square,cearnóg hanover
+1679,hanover street,east sráid hanover thoir
+1680,hanover street,west sráid hanover thiar
+1681,harbour court,cúirt an chuain
+1682,harbourmaster place,plás mháistir an chuain
+1683,harcourt lane,lána fhearchair
+1684,harcourt road,bóthar fhearchair
+1685,harcourt street,sráid fhearchair
+1686,harcourt terrace,ardán fhearchair
+1687,harcourt terrace lane,lána ardán fhearchair
+1688,hardebeck avenue,ascaill hardebeck
+1689,hardiman road,bóthar uí argadáin
+1690,hardwicke place,plás hardwicke
+1691,hardwicke street,sráid hardwicke
+1692,harman street,sráid uí argadáin
+1693,harmonstown road,bóthar bhaile hearman
+1694,harmony avenue,ascaill an chairdis
+1695,harmony court,cúirt an chairdis
+1696,harmony row,rae an chairdis
+1697,harold road,bóthar araild
+1698,harold’s cross cottages,iostáin chrois araild
+1699,harold’s cross road,bóthar chrois araild
+1700,haroldville avenue,ascaill bhailtín araild
+1701,harrington street,sráid harrington
+1702,harrison row,rae harrison
+1703,harry street,sráid harry
+1704,harty avenue,ascaill uí artaigh
+1705,harty court,cúirt uí artaigh
+1706,harty place,plás uí artaigh
+1707,hastings street,sráid hastings
+1708,hatch lane,lána haiste
+1709,hatch place,plás haiste
+1710,hatch street lower,sráid haiste
+1711,hatch street upper,sráid haiste
+1711,hatch street,sráid haiste
+1712,havelock place,plás havelock
+1713,havelock square,cearnóg havelock
+1714,havelock terrace,ardán havelock
+1715,"haven, the",an cuan
+1716,haverty road,bóthar uí ábhartaigh
+1717,hawkins street,sráid hawkins
+1718,hawthorn avenue,ascaill na sceiche
+1719,hawthorn terrace,ardán na sceiche
+1720,hazel lane,lána an choill
+1721,hazel park,páirc an choill
+1722,hazel road,bóthar an choill
+1723,hazelbrook court,cúirt ghlaise an choill
+1724,hazelbrook drive,céide ghlaise an choill
+1725,hazelbrook road,bóthar ghlaise an choill
+1726,hazelcroft gardens,gairdíní chroit an choill
+1727,hazelcroft park,páirc chroit an choill
+1728,hazelcroft road,bóthar chroit an choill
+1729,hazelwood court,cúirt na collchoille
+1730,hazelwood drive,céide na collchoille
+1731,hazelwood grove,garrán na collchoille
+1732,hazelwood park,páirc na collchoille
+1733,healy street,sráid uí éalaithe
+1734,heaney avenue,ascaill uí éinigh
+1735,hendrick place,plás hendrick
+1736,hendrick street,sráid hendrick
+1737,henrietta lane,lána henrietta
+1738,henrietta place,plás henrietta
+1739,henrietta street,sráid henrietta
+1740,henry place,plás anraí
+1741,henry street,sráid anraí
+1742,herbert avenue,ascaill hoirbeaird
+1743,herbert cottages,iostáin hoirbeaird
+1744,herbert lane,lána hoirbeaird
+1745,herbert park,páirc hoirbeaird
+1746,herbert place,plás hoirbeaird
+1747,herbert road,bóthar hoirbeaird
+1748,herbert street,sráid hoirbeaird
+1749,herberton drive,céide herberton
+1750,herberton park,páirc herberton
+1751,herberton road,bóthar herberton
+1752,heuston square,cearnóg heuston
+1753,hewardine terrace,ardán hewardine
+1754,heytesbury lane,lána heytesbury
+1755,heytesbury street,sráid heytesbury
+1756,hibernian avenue,ascaill na nibeirneach
+1757,high park,an pháirc ard
+1758,high street,an tsráid ard
+1759,highfield grove,garrán an ghoirt aird
+1760,highfield road,bóthar an ghoirt aird
+1761,hill street,sráid an chnoic
+1762,hillcrest park,páirc mhullach an chnoic
+1763,hogan avenue,ascaill uí ógáin
+1764,hogan place,plás uí ógáin
+1765,"hole in the wall road, the",bóthar pholl an bhalla
+1766,holles place,plás holles
+1767,holles row,rae holles
+1768,holles street,sráid holles
+1769,holly road,bóthar an chuilinn
+1770,hollybank avenue lower,ascaill bhruach an chuilinn
+1771,hollybank avenue upper,ascaill bhruach an chuilinn
+1771,hollybank avenue,ascaill bhruach an chuilinn
+1772,hollybank road,bóthar bhruach an chuilinn
+1773,hollybrook court drive,céide chúirt shruthán an
+1774,hollybrook grove,garrán shruthán an
+1775,hollybrook park,páirc shruthán an chuilinn
+1776,hollybrook road,bóthar shruthán an chuilinn
+1777,hollywood park,páirc choill an chuilinn
+1778,holy cross avenue,ascaill na croiche naofa
+1779,holyrood park,páirc chroich chríost
+1780,holywell avenue,ascaill an tobair naofa
+1781,holywell crescent,corrán an tobair naofa
+1782,holywell road,bóthar an tobair naofa
+1783,home farm park,páirc na buaile
+1784,home farm road,bóthar na buaile
+1785,home villas,bailtíní an bhaile
+1786,hope avenue,ascaill an dóchais
+1787,hope street,sráid hope
+1788,horton court,cúirt horton
+1789,howard street,sráid howard
+1790,howth junction cottages,iostáin ghabhal bhinn
+1791,howth road,bóthar bhinn éadair
+1792,howth view park,páirc radharc bhinn éadair
+1793,huband road,bóthar huband
+1794,hughes road,east bóthar mhic aodha thoir
+1795,hughes road,north bóthar mhic aodha thuaidh
+1796,hughes road,south bóthar mhic aodha theas
+1797,hume avenue,ascaill hume
+1798,hume street,sráid hume
+1799,huxley crescent,corrán huxley
+1800,hyacinth street,sráid an bhú
+1801,imaal road,bóthar ó máil
+1802,inagh road,bóthar eidhneach
+1803,inchicore parade,paráid inse chór
+1804,inchicore road,bóthar inse chór
+1805,inchicore square,east cearnóg inse chór thoir
+1806,inchicore square,north cearnóg inse chór thuaidh
+1807,inchicore square,south cearnóg inse chór theas
+1808,inchicore terrace,north ardán inse chór thuaidh
+1809,inchicore terrace,south ardán inse chór theas
+1810,infirmary road,bóthar na hotharlainne
+1811,ingram road,bóthar ingram
+1812,inishmaan road,bóthar inis meáin
+1813,innisfallen parade,paráid inis faithleann
+1814,inns quay,cé na nóstaí
+1815,inver road,bóthar inbhir
+1816,invermore grove,garrán an inbhir mhóir
+1817,inverness road,bóthar inbhear nis
+1818,iona crescent,corrán í
+1819,iona drive,céide í
+1820,iona park,páirc í
+1821,iona road,bóthar í
+1822,iona villas,bailtíní í
+1823,irishtown road,bóthar an bhaile ghaelaigh
+1824,irvine cottages,iostáin uí eireamhóin
+1825,irvine court,cúirt uí eireamhóin
+1826,irvine terrace,ardán uí eireamhóin
+1827,irwin court,cúirt uí eireamhóin
+1828,irwin street,sráid uí eireamhóin
+1829,island street,sráid na hinse
+1830,island view,radharc na hinse
+1831,island villa,bailtín na hinse
+1832,isolda road,bóthar isolda
+1833,isolde gardens,gairdíní iosóid
+1834,ivar street,sráid íomhair
+1835,iveagh gardens,gairdíní uíbh eachach
+1836,iveleary road,bóthar uíbh laoire
+1837,iveragh court,cúirt uibh ráthach
+1838,iveragh road,bóthar uíbh ráthach
+1839,ivy court,cúirt an eidhneáin
+1840,ivy terrace,ardán an eidhneáin
+1841,james larkin road,bóthar shéamais uí lorcáin
+1842,james’s place,east plás san séamas thoir
+1843,james’s street,sráid san séamas
+1844,james’s street,north sráid san séamas thuaidh
+1845,jamestown avenue,ascaill bhaile shéamais
+1846,jamestown road,bóthar bhaile shéamais
+1847,jervis lane upper,lána jervis
+1847,jervis lane,lána jervis
+1848,jervis street,sráid jervis
+1849,john dillon street,sráid sheáin diolúin
+1850,john field road,bóthar john field
+1851,john mccormack avenue,ascaill sheáin mhic
+1852,john street,sráid eoin
+1853,john street,north sráid eoin thuaidh
+1854,john street,south sráid eoin theas
+1855,john’s lane,west lána eoin thiar
+1856,johnson court,cúirt mhic sheáin
+1857,johnson place,plás mhic sheáin
+1858,johnstown park,páirc bhaile sheáin
+1859,jones’s road,bóthar mhic sheoin
+1860,josephine avenue,ascaill sheosaimhín
+1861,joshua lane,lána iósua
+1862,joy street,sráid sheoch
+1863,joyce road,bóthar an tseoighigh
+1864,joyce way,bealach an tseoighigh
+1865,kearn’s place,plás uí chiaráin
+1866,keeper road,bóthar shliabh coimeálta
+1867,kells road,bóthar cheanannais
+1868,kellys row,rae uí cheallaigh
+1869,kempton avenue,ascaill kempton
+1870,kempton court,cúirt kempton
+1871,kempton green,faiche kempton
+1872,kempton grove,garrán kempton
+1873,kempton heath,fraoch kempton
+1874,kempton lawn,plásóg kempton
+1875,kempton park,páirc kempton
+1876,kempton rise,ard kempton
+1877,kempton view,radharc kempton
+1878,kempton way,bealach kempton
+1879,kenilworth lane,lána kenilworth
+1880,kenilworth park,páirc kenilworth
+1881,kenilworth road,bóthar kenilworth
+1882,kenilworth square,east cearnóg kenilworth thiar
+1883,kenilworth square,north cearnóg kenilworth
+1884,kenilworth square,south cearnóg kenilworth theas
+1885,kenmare parade,paráid an neidín
+1886,kennedy court,cúirt uí chinnéide
+1887,kerlogue road,bóthar kerlogue
+1888,kevin street,cross cros-sráid chaoimhín
+1889,kevin street lower,sráid chaoimhin
+1890,kevin street upper,sráid chaoimhin
+1890,kevin street,sráid chaoimhin
+1891,kickham road,bóthar chiceam
+1892,kilbarrack avenue,ascaill chill bharróg
+1893,kilbarrack gardens,gairdíní chill bharróg
+1894,kilbarrack grove,garrán chill bharróg
+1895,kilbarrack road,bóthar chill bharróg
+1896,kilbarron avenue,ascaill chill bharrainn
+1897,kilbarron drive,céide chill bharrainn
+1898,kilbarron park,páirc chill bharrainn
+1899,kilbarron road,bóthar chill bharrainn
+1900,kilbride road,bóthar chill bhríde
+1901,kildare park,páirc chill dara
+1902,kildare road,bóthar chill dara
+1903,kildare street,sráid chill dara
+1904,kildonan avenue,ascaill chill dónáin
+1905,kildonan drive,céide chill dónáin
+1906,kildonan road,bóthar chill dónáin
+1907,kilfenora drive,céide chill fhionnúrach
+1908,kilfenora road,bóthar chill fhionnúrach
+1909,kilkieran court,cúirt chill chiaráin
+1910,kilkieran road,bóthar chill chiaráin
+1911,killala road,bóthar chill ala
+1912,killan road,bóthar uí chilleáin
+1913,killarney avenue,ascaill chill airne
+1914,killarney parade,paráid chill airne
+1915,killarney street,sráid chill airne
+1916,killary grove,garrán an chaoláire rua
+1917,killeen road,bóthar uí chillín
+1918,killester avenue,ascaill chill easra
+1919,killester court,cúirt chill easra
+1920,killester park,páirc chill easra
+1921,kilmainham lane,lána chill mhaighneann
+1922,kilmore avenue,ascaill na coille móire
+1923,kilmore close,clós na coille móire
+1924,kilmore crescent,corrán na coille móire
+1925,kilmore drive,céide na coille móire
+1926,kilmore road,bóthar na coille móire
+1927,kilmoroney close,clós chill mhaolruanaidh
+1928,kilnamanagh road,bóthar chill na manach
+1929,kilshane road,bóthar chill sheáin
+1930,kilworth road,bóthar chill uird
+1931,kimmage court,cúirt chamaí
+1932,kimmage grove,garrán chamaí
+1933,kimmage road lower,bóthar chamaí
+1934,kimmage road,west bóthar chamaí thiar
+1935,kinahan street,sráid uí choinneacháin
+1936,kincora avenue,ascaill cheann cora
+1937,kincora court,cúirt cheann cora
+1938,kincora drive,céide cheann cora
+1939,kincora grove,garrán cheann cora
+1940,kincora park,páirc cheann cora
+1941,kincora road,bóthar cheann cora
+1942,king street,north sráid an rí thuaidh
+1943,king street,south sráid an rí theas
+1944,kingram place,plás kingram
+1945,kings avenue,ascaill an rí
+1946,king’s inns street,sráid óstaí an rí
+1947,kingsland parade,paráid kingsland
+1948,kingsland park avenue,ascaill pháirc kingsland
+1949,kinvara avenue,ascaill chinn mhara
+1950,kinvara drive,céide chinn mhara
+1951,kinvara grove,garrán chinn mhara
+1952,kinvara park,páirc chinn mhara
+1953,kinvara road,bóthar chinn mhara
+1954,kippure park,páirc chipiúr
+1955,kirwan street,sráid uí chiarabháin
+1956,kirwan street cottages,iostáin shráid uí
+1957,knights bridge,droichead an ridire
+1958,knocknarea avenue,ascaill chnoc na riabh
+1959,knocknarea road,bóthar chnoc na riabh
+1960,knowth court,cúirt chnóbha
+1961,kyleclare road,bóthar kyleclare
+1962,kylemore avenue,ascaill na coille móire
+1963,kylemore drive,céide na coille móire
+1964,kylemore grove,garrán na coille móire
+1965,kylemore park,north páirc na coille móire
+1966,kylemore park,south páirc na coille móire theas
+1967,kylemore park,west páirc na coille móire thiar
+1968,kylemore road,bóthar na coille móire
+1969,la touche drive,céide la touche
+1970,la touche road,bóthar la touche
+1971,la vista avenue,ascaill la vista
+1972,labre park,páirc labré
+1973,lad lane,lána lad
+1974,lad lane upper,lána lad
+1975,lady’s lane,lána na bantiarna
+1976,lagan road,bóthar an lagáin
+1977,lakelands park,páirc fhearann an locha
+1978,lally road,bóthar uí mhaolalaidh
+1979,lamb alley,scabhat an uain
+1980,lambay road,bóthar reachrann
+1981,lambourne village,sráidbhaile lambourne
+1982,lamb’s court,cúirt uí luain
+1983,landen road,bóthar landen
+1984,landsdowne valley park,páirc ghleann lansdún
+1985,langrishe place,plás langrishe
+1986,lansdowne hall hall,a lansdún
+1987,lansdowne lane,lána lansdún
+1988,lansdowne park,páirc lansdún
+1989,lansdowne road,bóthar lansdún
+1990,lansdowne square,cearnóg lansdún
+1991,lansdowne village,sráidbhaile lansdún
+1992,laracor gardens,gáirdíní láithreach cora
+1993,laragh close,clós láithrigh
+1994,laragh grove,garrán láithrigh
+1995,larch grove,garrán na learóige
+1996,larkfield avenue,ascaill ghort na fuiseoige
+1997,larkfield gardens,gairdíní ghort na fuiseoige
+1998,larkfield grove,garrán ghort na fuiseoige
+1999,larkfield park,páirc ghort na fuiseoige
+2000,larkhill road,bóthar chnoc na fuiseoige
+2001,laundry lane,lána an níocháin
+2002,"laurels, the",na labhrais
+2003,lavarna grove,garrán leathbhearna
+2004,lavarna road,bóthar leathbhearna
+2005,laverty court,cúirt uí laibheartaigh
+2006,lavery avenue,ascaill uí laibheartaigh
+2007,"lawn, the",an phlásóg
+2008,lawrence grove,garrán labhráis
+2009,le fanu drive,céide le fanu
+2010,le fanu road,bóthar le fanu
+2011,le vere terrace,ardán le vere
+2012,lea crescent,corrán an bháin
+2013,lea road,bóthar an bháin
+2014,leahy’s terrace,ardán uí laocha
+2015,lee road,bóthar na laoi
+2016,leeson close,clós líosain
+2017,leeson lane,lána líosain
+2018,leeson park,páirc líosain
+2019,leeson park avenue,ascaill pháirc líosain
+2020,leeson place,plás líosain
+2021,leeson street lower,sráid líosain
+2022,leeson street upper,sráid líosain
+2022,leeson street,sráid líosain
+2023,leeson village,sráidbhaile líosain
+2024,leicester avenue,ascaill leicester
+2025,leicester court,cúirt leicester
+2026,leighlin road,bóthar leithghlinne
+2027,lein gardens,gairdíní loch léin
+2028,lein park,páirc loch léin
+2029,lein road,bóthar loch léin
+2030,leinster avenue,ascaill laighean
+2031,leinster lane,lána laighean
+2032,leinster market,margadh laighean
+2033,leinster park,páirc laighean
+2034,leinster place,plás laighean
+2035,leinster road,bóthar laighean
+2036,leinster road,west bóthar laighean thiar
+2037,leinster square,cearnóg laighean
+2038,leinster street,east sráid laighean thoir
+2039,leinster street,north sráid laighean thuaidh
+2040,leinster street,south sráid laighean theas
+2041,leitrim place,plás liatroma
+2042,leix road,bóthar laoise
+2043,lemon street,sráid lemon
+2044,lennox place,plás lennox
+2045,lennox street,sráid lennox
+2046,lennox terrace,ardán lennox
+2047,lentisk lawn,plásóg an chrann
+2048,leo avenue,ascaill leo
+2049,leo street,sráid leo
+2050,leslie’s buildings,foirgnimh leaslaoi
+2051,leukos road,sráid leukos
+2052,liberty lane,lána na saoirse
+2053,liffey street lower,sráid na life
+2054,liffey street,south sráid na life theas
+2055,liffey street upper,sráid na life
+2056,liffey street,west sráid na life thiar
+2057,lime street,sráid an aoil
+2058,limekiln lane,lána na tiníleach
+2059,limewood avenue,ascaill choill na teile
+2060,limewood court,cúirt choill na teile
+2061,limewood park,páirc choill na teile
+2062,limewood road,bóthar choill na teile
+2063,lincoln lane,lána lincoln
+2064,lincoln place,plás lincoln
+2065,lindsay grove,garrán lindsay
+2066,lindsay road,bóthar lindsay
+2067,linenhall parade,paráid halla an línéadaigh
+2068,linenhall street,sráid halla an línéadaigh
+2069,linenhall terrace,ardán halla an línéadaigh
+2070,lisburn street,sráid lios na gcearrbhach
+2071,liscannor road,bóthar lios ceannúir
+2072,lisle road,bóthar lisle
+2073,lismeen court,cúirt lios mín
+2074,lismore road,bóthar leasa móire
+2075,lissadel avenue,ascaill lios an daill
+2076,lissadel court,cúirt lios an daill
+2077,lissadel drive,céide lios an daill
+2078,lissadel green,faiche lios an daill
+2079,lissadel road,bóthar lios an daill
+2080,lissenfield gort,lisín
+2081,little britain street,sráid na breataine bheag
+2082,little fitzwilliam place,plás mhic liam beag
+2083,little green street,sráid na faiche bige
+2084,litton lane,lána litton
+2085,loftus lane,lána loftus
+2086,lombard court,cúirt lombard
+2087,lombard street,east sráid lombard thoir
+2088,lombard street,west sráid lombard thiar
+2089,lomond avenue,ascaill loch laomainn
+2090,londonbridge drive,céide dhroichead londan
+2091,londonbridge road,bóthar dhroichead londan
+2092,long lane,an lána fada
+2093,long mile road,bóthar an mhíle fhada
+2094,longford lane,lána an longfoirt
+2095,long’s place,plás uí longáin
+2096,longwood avenue,ascaill na coille fada
+2097,lorcan avenue,ascaill lorcáin
+2098,lorcan crescent,corrán lorcáin
+2099,lorcan drive,céide lorcáin
+2100,lorcan green,faiche lorcáin
+2101,lorcan grove,garrán lorcáin
+2102,lorcan o’toole park,páirc lorcáin uí thuathail
+2103,lorcan park,páirc lorcáin
+2104,lorcan road,bóthar lorcáin
+2105,lorcan villas,bailtíní lorcáin
+2106,lord edward street,sráid an tiarna éadbhard
+2107,lords’ walk,siúlán na dtiarnaí
+2108,loreto road,bóthar loreto
+2109,lorne terrace,ardán lorne
+2110,lough conn avenue,ascaill loch con
+2111,lough conn drive,céide loch con
+2112,lough conn road,bóthar loch con
+2113,lough conn terrace,ardán loch con
+2114,lough derg road,bóthar loch deirgirt
+2115,lourdes road,bóthar lourdes
+2116,love lane,east lána na suiríoch thoir
+2117,lower glen road,bóthar an ghleanna
+2118,luby road,bóthar uí lúbaigh
+2119,lucan road,old seanbhóthar leamhcáin
+2120,luke street,sráid luke
+2121,lullymore terrace,ardán loilíoch mór
+2122,lurgan street,sráid na lorgan
+2123,lynch’s lane,lána uí loingsigh
+2124,mabbot lane,lána mabbot
+2125,mabel street,sráid mháible
+2126,macken street,sráid uí mhaicín
+2127,mackies place,plás uí mhacaí
+2128,macroom avenue,ascaill mhaigh chromtha
+2129,macroom road,bóthar mhaigh chromtha
+2130,madden road,bóthar uí mhadáin
+2131,madison road,bóthar madison
+2132,magennis place,plás mhic aonghasa
+2133,magennis square,cearnóg mhic aonghasa
+2134,magenta crescent,corrán magenta
+2135,magenta hall hall,a magenta
+2136,maiden row,rae na maighdine
+2137,main street,an tsráid mhór
+2138,malachi place,plás mhaolmhaodhóg
+2139,malachi road,bóthar mhaolmhaodhóg
+2140,malahide road,bóthar mhullach íde
+2141,mallin avenue,ascaill uí mhealláin
+2142,malone gardens,gairdíní uí mhaoileoin
+2143,malpas place,plás malpas
+2144,malpas street,sráid malpas
+2145,malpas terrace,ardán malpas
+2146,mander’s terrace,ardán mander
+2147,mangerton road,bóthar na mangartan
+2148,mannix road,bóthar uí mhainchín
+2149,manor drive,céide an mhainéir
+2150,manor place,plás an mhainéir
+2151,manor street,sráid an mhainéir
+2152,maolbuille road,bóthar mhaolbuille
+2153,maple drive,céide na mailpe
+2154,margaret place,plás mhaighréide
+2155,marguerite road,bóthar mhaighréide
+2156,marigold avenue,ascaill an ór muire
+2157,marigold court,cúirt an ór muire
+2158,marigold grove,garrán an ór muire
+2159,marigold road,bóthar an ór muire
+2160,marine drive,céide na mara
+2161,marino avenue,ascaill marino
+2162,marino crescent,corrán marino
+2163,marino green,faiche marino
+2164,marino park,páirc marino
+2165,marino park avenue,ascaill pháirc marino
+2166,marion villas,bailtíní mhuire
+2167,mark street,sráid mharcais
+2168,market street,south sráid an mhargaidh theas
+2169,mark’s alley,west scabhat mharcais thiar
+2170,mark’s lane,lána mharcais
+2171,marlborough place,plás mhaoilbhríde (36e2)
+2172,marlborough road,bóthar marlborough
+2173,marlborough street,sráid mhaoilbhríde (36d2)
+2174,marne villas,bailtíní marne
+2175,marrowbone lane,lána mhuire mhaith
+2176,marrowbone lane close,clós lána mhuire mhaith
+2177,marshal lane,lána mharascail
+2178,martello mews,eachlann martello
+2179,martello view,radharc martello
+2180,martello wood,coill martello
+2181,martin grove,garrán mháirtín
+2182,martin savage park,páirc mháirtín sabhaois
+2183,martin street,sráid an mháirtínigh
+2184,martin’s row,rae an mháirtínigh
+2185,mary street,sráid mhuire
+2186,mary street,little sráid mhuire bheag
+2187,maryfield avenue,ascaill ghort mhuire
+2188,maryfield crescent,corrán ghort mhuire
+2189,maryfield drive,céide ghort mhuire
+2190,mary’s lane,lána mhuire
+2191,maryville road,bóthar maryville
+2192,mask avenue,ascaill loch measca
+2193,mask crescent,corrán loch measca
+2194,mask drive,céide loch measca
+2195,mask green,faiche loch measca
+2196,mask road,bóthar loch measca
+2197,maxwell lane,lána maxwell
+2198,maxwell road,bóthar maxwell
+2199,maxwell street,sráid maxwell
+2200,may lane,lána may
+2201,may street,sráid may
+2202,mayfield gort,na bealtaine
+2203,mayfield road,bóthar ghort na bealtaine
+2204,mayfield road,east bóthar ghort na bealtaine
+2205,mayor street lower,sráid an mhéara
+2206,mayor street upper,sráid an mhéara
+2206,mayor street,sráid an mhéara
+2207,maywood avenue,ascaill maywood
+2208,maywood close,clós maywood
+2209,maywood crescent,corrán maywood
+2210,maywood drive,céide maywood
+2211,maywood grove,garrán maywood
+2212,maywood lawn,plásóg maywood
+2213,maywood park,páirc maywood
+2214,mcauley avenue,ascaill nic amhlaí
+2215,mcauley drive,céide nic amhlaí
+2216,mcauley park,páirc nic amhlaí
+2217,mcauley road,bóthar nic amhlaí
+2218,mcdowell avenue,ascaill mhic dhúill
+2219,mckee avenue,ascaill mhic aoidh
+2220,mckee park,páirc mhic aoidh
+2221,mckee road,bóthar mhic aoidh
+2222,mckelvey avenue,ascaill mhic ghiolla bhuí
+2223,mckelvey road,bóthar mhic ghiolla bhuí
+2224,mcmahon street,sráid mhic mhathúna
+2225,mcmorrough road,bóthar mhic mhurchú
+2226,meade’s terrace,ardán an mhígh
+2227,meadow view,radharc na cluana
+2228,"meadows, the",na cluainte
+2229,meath market,margadh na mí
+2230,meath place,plás na mí
+2231,meath square,cearnóg na mí
+2232,meath street,sráid na mí
+2233,meeting house square,cearnóg theach an tionóil
+2234,meetinghouse lane,lána theach an tionóil
+2235,mellowes avenue,ascaill uí mhaoilíosa
+2236,mellowes crescent,corrán uí mhaoilíosa
+2237,mellowes park,páirc uí mhaoilíosa
+2238,mellowes road,bóthar uí mhaoilíosa
+2239,melrose avenue,ascaill mhaolrosa
+2240,melrose court,cúirt mhaolrosa
+2241,melvin road,bóthar loch meilbhe
+2242,memorial road,bóthar an chuimhneacháin
+2243,mercer street lower,sráid mercer
+2244,mercer street upper,sráid mercer
+2244,mercer street,sráid mercer
+2245,merchants quay,cé na gceannaithe
+2246,merchants road,bóthar na gceannaithe
+2247,merchants square,cearnóg na gceannaithe
+2248,merlyn drive,céide merlyn
+2249,merlyn park,páirc merlyn
+2250,merlyn road,bóthar merlyn
+2251,merrion close,clós mhuirfean
+2252,merrion place,plás mhuirfean
+2253,merrion road,bóthar mhuirfean
+2254,merrion row,rae mhuirfean
+2255,merrion square,east cearnóg mhuirfean thoir
+2256,merrion square,north cearnóg mhuirfean thuaidh
+2257,merrion square,south cearnóg mhuirfean theas
+2258,merrion square,west cearnóg mhuirfean thiar
+2259,merrion street,sráid mhuirfean
+2260,merrion street upper,sráid mhuirfean
+2261,merrion view avenue,ascaill radharc mhuirfean
+2262,merton avenue,ascaill merton
+2263,merton drive,céide merton
+2264,merton park,páirc merton
+2265,merton road,bóthar merton
+2266,merville avenue,ascaill merville
+2267,mespil road,bóthar mespil
+2268,"mews, the",an eachlann
+2269,military road,an bóthar míleata
+2270,mill street,sráid an mhuilinn
+2271,millbourne avenue,ascaill shruth an mhuilinn
+2272,millbrook avenue,ascaill shruthán an mhuilinn
+2273,millbrook drive,céide shruthán an mhuilinn
+2274,millbrook grove,garrán shruthán an
+2275,millbrook road,bóthar shruthán an
+2276,millbrook terrace,ardán shruthán an mhuilinn
+2277,millbrook village,sráidbhaile shruthán an
+2278,millmount avenue,ascaill chnocán an
+2279,millmount place,plás chnocán an mhuilinn
+2280,millmount terrace,ardán chnocán an mhuilinn
+2281,millmount villas,bailtíní chnocán an
+2282,millrose estate,eastát rós an mhuilinn
+2283,milltown road,bóthar bhaile an mhuilinn
+2284,millview cottages,iostáin radharc an mhuilinn
+2285,millwood park,páirc choill an mhuilinn
+2286,millwood villas,bailtíní choill an mhuilinn
+2287,misery hill,cnoc na hainnise
+2288,moat lane,lána an mhóta
+2289,moatfield avenue,ascaill ghort an mhóta
+2290,moatfield park,páirc ghort an mhóta
+2291,moatfield road,bóthar ghort an mhóta
+2292,moatview avenue,ascaill radharc an mhóta
+2293,moatview court,cúirt radharc an mhóta
+2294,moatview drive,céide radharc an mhóta
+2295,moatview gardens,gairdíní radharc an mhóta
+2296,moatview terrace,ardán radharc an mhóta
+2297,moeran road,bóthar uí mhóráin
+2298,moira villas,bailtíní mhaigh rath
+2299,moland place,plás moland
+2300,molesworth place,plás theach laighean
+2301,molesworth street,sráid theach laighean
+2302,monasterboice road,bóthar mhainistir bhuithe
+2303,monck place,plás monck
+2304,montague court,cúirt montague
+2305,montague lane,lána montague
+2306,montague street,sráid montague
+2307,montpelier drive,céide montpelier
+2308,montpelier gardens,gairdíní montpelier
+2309,montpelier hill,cnoc montpelier
+2310,montpelier park,páirc montpelier
+2311,montrose avenue,ascaill mhonadh rois
+2312,montrose close,clós mhonadh rois
+2313,montrose court,cúirt mhonadh rois
+2314,montrose crescent,corrán mhonadh rois
+2315,montrose drive,céide mhonadh rois
+2316,montrose grove,garrán mhonadh rois
+2317,montrose park,páirc mhonadh rois
+2318,moore lane,lána an mhúraigh
+2319,moore street,sráid an mhúraigh
+2320,morehampton lane,lána morehampton
+2321,morehampton road,bóthar morehampton
+2322,morehampton square,cearnóg morehampton
+2323,morehampton terrace,ardán morehampton
+2324,morning star avenue,ascaill réalta na maidine
+2325,morning star road,bóthar réalta na maidine
+2326,mornington grove,garrán bhaile uí mhornáin
+2327,mornington road,bóthar bhaile uí mhornáin
+2328,"moorings, the an tionad feistithe",
+2329,morroch terrace,ardán mhurcha
+2330,moss street,sráid moss
+2331,mount argus avenue,ascaill chnocán argos
+2332,mount argus close,clós chnocán argos
+2333,mount argus court,cúirt chnocán argos
+2334,mount argus crescent,corrán chnocán argos
+2335,mount argus green,faiche chnocán argos
+2336,mount argus grove,garrán chnocán argos
+2337,mount argus park,páirc chnocán argos
+2338,mount argus road,bóthar chnocán argos
+2339,mount argus terrace,ardán chnocán argos
+2340,mount argus view,radharc chnocán argos
+2341,mount argus way,bealach chnocán argos
+2342,mount drummond avenue,ascaill chnocán drummond
+2343,mount drummond square,cearnóg chnocán
+2344,mount eden road,bóthar chnocán éidin
+2345,mount olive grove,garrán chnocán na
+2346,mount olive park,páirc chnocán na holóige
+2347,mount olive road,bóthar chnocán na holóige
+2348,mount pleasant avenue upper,ascaill chnocán aoibhinn
+2349,mount prospect avenue,ascaill chnocán an
+2350,mount prospect drive,céide chnocán an
+2351,mount prospect grove,garrán chnocán an
+2352,mount prospect park,páirc chnocán an radhairc
+2353,mount street crescent,corrán shráid an mhóta
+2354,mount street lower,sráid an mhóta
+2355,mount street upper,sráid an mhóta
+2355,mount street,sráid an mhóta
+2356,mount tallant avenue,ascaill chnocán tallant
+2357,mount temple road,bóthar chnocán an
+2358,mountain view avenue,ascaill radharc an tsléibhe
+2359,mountain view cottages,iostáin radharc an tsléibhe
+2360,mountain view road,bóthar radharc an tsléibhe
+2361,mountjoy parade,paráid mhuinseo
+2362,mountjoy place,plás mhuinseo
+2363,mountjoy square,east cearnóg mhuinseo thoir
+2364,mountjoy square,north cearnóg mhuinseo thuaidh
+2365,mountjoy square,south cearnóg mhuinseo theas
+2366,mountjoy square,west cearnóg mhuinseo thiar
+2367,mountjoy street,sráid mhuinseo
+2368,mountjoy street middle,sráid mhuinseo láir
+2369,mountpelier court,cúirt montpelier
+2370,mountpleasant avenue lower,ascaill chnocán aoibhinn
+2371,mountpleasant parade,paráid chnocán aoibhinn
+2372,mountpleasant place,plás chnocán aoibhinn
+2373,mountpleasant square,cearnóg chnocán aoibhinn
+2374,mountpleasant terrace,ardán chnocán aoibhinn
+2375,mountpleasant terrace upper,ardán chnocán aoibhinn
+2376,mountpleasant villas,bailtíní chnocán aoibhinn
+2377,mountshannon road,bóthar bhaile uí bheoláin
+2378,mourne road,bóthar bheanna boirche
+2379,moy elta road,bóthar mhaigh ealta
+2380,moycullen road,bóthar mhaigh cuilinn
+2381,moyle road,bóthar na maoile
+2382,moyne court,cúirt na maighne
+2383,moyne road,bóthar na maighne
+2384,muckross parade,paráid mhucrois
+2385,muirfield drive,céide muirfield
+2386,mulroy road,bóthar na maoile rua
+2387,munster street,sráid na mumhan
+2388,murray’s cottages,iostáin uí mhuirí
+2389,murtagh road,bóthar uí mhuircheartaigh
+2390,muskerry road,bóthar mhúscraí
+2391,myra close,clós mháire
+2392,myrtle street,sráid an mhiortail
+2393,naas road,bóthar an náis
+2394,nanikin avenue,ascaill an nainicín
+2395,nash street,sráid an naisigh
+2396,nassau street,sráid nassau
+2397,navan road,bóthar na huaimhe
+2398,neagh road,bóthar loch neathach
+2399,nelson street,sráid nelson
+2400,nephin road,bóthar néifinne
+2401,nerney’s court,cúirt mhic an airchinnigh
+2402,neville road,bóthar neville
+2403,new ireland court,cúirt éireann nua
+2404,new road,an bóthar nua
+2405,new row,an rae nua
+2406,new row,south an rae nua theas
+2407,new row square,cearnóg an rae nua
+2408,new street gardens,gairdiní na sráide nua
+2409,new street,north an tsráid nua thuaidh
+2410,new street,south an tsráid nua theas
+2411,new wapping street,sráid wapping nua
+2412,newbridge avenue,ascaill an droichid nua
+2413,newbridge drive,céide an droichid nua
+2414,newbrook avenue,ascaill an tsrutháin nua
+2415,newbrook road,bóthar an tsrutháin nua
+2416,newbury avenue,ascaill newbury
+2417,newbury drive,céide newbury
+2418,newbury grove,garrán newbury
+2419,newbury park,páirc newbury
+2420,newbury terrace,ardán newbury
+2421,newcomen avenue,ascaill newcomen
+2422,newgrange road,bóthar shí an bhrú
+2423,newgrove avenue,ascaill an gharráin nua
+2424,newgrove estate,eastát an gharráin nua
+2425,newmarket street,sráid an mhargaidh
+2426,newport street,sráid an phoirt nua
+2427,newtown cottages,iostáin an bhaile nua
+2428,newtown drive,céide an bhaile nua
+2429,niall street,sráid néill
+2430,nicholas avenue,ascaill niocláis
+2431,nicholas street,sráid niocláis
+2432,nore road,bóthar na feoire
+2433,norfolk road,bóthar norfolk
+2434,norseman place,plás an lochlannaigh
+2435,north bull island,oileán an bhulla thuaidh
+2436,north circular road,an cuarbhóthar thuaidh
+2437,north great clarence street,sráid clarence mhór
+2438,north great george’s street,sráid sheoirse mhór
+2439,north road,an bóthar thuaidh
+2440,north strand road,bóthar na trá thuaidh
+2441,north wall quay,cé an phoirt thuaidh
+2442,northbrook avenue,ascaill northbrook
+2443,northbrook avenue lower,ascaill northbrook
+2444,northbrook avenue upper,ascaill northbrook
+2445,northbrook lane,lána northbrook
+2446,northbrook road,bóthar northbrook
+2447,northbrook terrace,ardán northbrook
+2448,northbrook walk,siúlán northbrook
+2449,northland drive,céide an fhearainn
+2450,northland grove,garrán an fhearainn
+2451,northumberland place,plás northumberland
+2452,northumberland road,bóthar northumberland
+2453,northway estate,eastát an bhealaigh
+2454,norton’s avenue,ascaill uí neachtain
+2455,norwood park,páirc norwood
+2456,nottingham street,sráid nottingham
+2457,nunciature road,bóthar na nuinteasachta
+2458,nurney lawn,plásóg na hurnaí
+2459,nutley avenue,ascaill nutley
+2460,nutley lane,lána nutley
+2461,nutley park,páirc nutley
+2462,nutley road,bóthar nutley
+2463,oak apple green,faiche ghál darach
+2464,oak park avenue,ascaill pháirc na darach
+2465,oak park close,clós pháirc na darach
+2466,oak park drive,céide pháirc na darach
+2467,oak park grove,garrán pháirc na darach
+2468,oak road,bóthar na darach
+2469,oakfield place,plás ghort na darach
+2470,oaklands crescent,corrán fhearann dara
+2471,oaklands drive,céide fhearann dara
+2472,oaklands park,páirc fhearann dara
+2473,oaklands terrace,ardán fhearann dara
+2474,oakley park,páirc oakley
+2475,oakley road,bóthar oakley
+2476,oakley square,cearnóg oakley
+2477,"oaks, the",na daracha
+2478,oakwood avenue,ascaill choill darach
+2479,oakwood close,clós choill darach
+2480,oakwood park,páirc choill darach
+2481,oakwood road,bóthar choill darach
+2482,oblate drive,céide na noblátach
+2483,o’brien road,bóthar uí bhriain
+2484,o’brien’s place,plás uí bhriain
+2485,o’brien’s terrace,ardán uí bhriain
+2486,observatory lane,lána na réadlainne
+2487,o’carolan road,bóthar uí chearúlláin
+2488,o’casey avenue,ascaill uí chathasaigh
+2489,o’connell avenue,ascaill uí chonaill
+2490,o’connell gardens,gairdíní uí chonaill
+2491,o’connell street lower,sráid uí chonaill
+2492,o’connell street upper,sráid uí chonaill
+2492,o’connell street,sráid uí chonaill
+2493,o’curry avenue,ascaill uí chomhraí
+2494,o’curry road,bóthar uí chomhraí
+2495,o’daly road,bóthar uí dhálaigh
+2496,odd lamp road,bóthar an chorrlampa
+2497,o’devaney gardens,gairdíní uí dhuibheannaigh
+2498,o’donoghue street,sráid uí dhonnchú
+2499,o’donovan road,bóthar uí dhonnabháin
+2500,o’dwyer road,bóthar uí dhuibhir
+2501,offaly road,bóthar uíbh fhailí
+2502,o’hara avenue,ascaill uí eára
+2503,o’hogan road,bóthar uí ógáin
+2504,olaf road,bóthar san amhlaoibh
+2505,old cabra road,seanbhóthar na cabraí
+2506,old county glen,seanghleann an chontae
+2507,old county road,seanbhóthar an chontae
+2508,old naas road,seanbhóthar an náis
+2509,oldtown avenue,ascaill an tseanbhaile
+2510,oldtown park,páirc an tseanbhaile
+2511,oldtown road,bóthar an tseanbhaile
+2512,o’leary road,bóthar uí laoire
+2513,oliver bond street,sráid oliver bond
+2514,oliver plunkett avenue,ascaill oilibhéir pluincéid
+2515,olney crescent,corrán olney
+2516,olney grove,garrán olney
+2517,o’moore road,bóthar uí mhóra
+2518,o’neachtain road,bóthar uí neachtain
+2519,o’neill’s buildings,foirgnimh uí néill
+2520,ontario terrace,ardán ontario
+2521,o’quinn avenue,ascaill uí chuinn
+2522,o’rahilly parade,paráid uí rathaille
+2523,oranmore close,clós órán mór
+2524,oranmore road,bóthar órán mór
+2525,orchard lane,lána an úlloird
+2526,orchard road,bóthar an úlloird
+2527,"orchard, the",an túllord
+2528,ordnance survey road,bóthar na suirbhéireachta
+2529,o’reilly avenue,ascaill uí raghallaigh
+2530,oriel hall hall,a oiriall
+2531,oriel street lower,sráid oiriall
+2532,oriel street upper,sráid oiriall
+2532,oriel street,sráid oiriall
+2533,ormeau street,sráid ormeau
+2534,ormond place,plás urumhan
+2535,ormond quay lower,cé urumhan
+2536,ormond quay upper,cé urumhan
+2536,ormond quay,cé urumhan
+2537,ormond road,bóthar urumhan
+2538,ormond road,south bóthar urumhan theas
+2539,ormond square,cearnóg urumhan
+2540,orwell mews,eachlann orwell
+2541,orwell park,páirc orwell
+2542,orwell road,bóthar orwell
+2543,oscar square,cearnóg oscair
+2544,oscar traynor road,bóthar oscair mhic thréinir
+2545,ossory road,bóthar osraí
+2546,ostman place,plás na lochlannach
+2547,o’sullivan avenue,ascaill uí shuilleabháin
+2548,oswald road,bóthar oswald
+2549,oulton road,bóthar oulton
+2550,our lady’s close,clós mhuire
+2551,our lady’s road,bóthar mhuire
+2552,ovoca road,bóthar abhóca
+2553,owen’s avenue,ascaill eoghain
+2554,oxford road,bóthar oxford
+2555,oxmantown lane,lána bhaile na
+2556,oxmantown road,bóthar bhaile na
+2557,"paddock, the",an peadac
+2558,"paddocks, the",na peadaic
+2559,palace street,sráid an pháláis
+2560,palmerston close,clós bhaile phámar
+2561,palmerston court,cúirt bhaile phámar
+2562,palmerston gardens,gairdíní bhaile phámar
+2563,palmerston grove,garrán bhaile phámar
+2564,palmerston lane,lána bhaile phámar
+2565,palmerston park,páirc bhaile phámar
+2566,palmerston place,plás bhaile phámar
+2567,palmerston road,bóthar bhaile phámar
+2568,palmerston villas,bailtíní bhaile phámar
+2569,paradise place,plás pharthais
+2570,park avenue,ascaill na páirce
+2571,park court,cúirt na páirce
+2572,park crescent,corrán na páirce
+2573,park drive,céide na páirce
+2574,park lane,lána na páirce
+2575,park lane,east lána na páirce thoir
+2576,park lawn,plásóg na páirce
+2577,park road,bóthar na páirce
+2578,park street,west sráid na páirce thiar
+2579,park terrace,ardán na páirce
+2580,"park, the",an pháirc
+2581,park view,radharc na páirce
+2582,park west industrial estate,eastát tionscail na páirce
+2583,parker hill,cnoc pháircéir
+2584,parkgate street,sráid gheata na páirce
+2585,parkmore drive,céide na páirce móire
+2586,parkview avenue,ascaill radharc na páirce
+2587,parkview court,cúirt radharc na páirce
+2588,parkview place,plás radharc na páirce
+2589,parkwest industrial park,páirc thionscail na páirce
+2590,parkwest road,bóthar na páirce thiar
+2591,parliament street,sráid na parlaiminte
+2592,parnell avenue,ascaill parnell
+2593,parnell court,cúirt parnell
+2594,parnell place,plás parnell
+2595,parnell road,bóthar parnell
+2596,parnell square,east cearnóg parnell thoir
+2597,parnell square,north cearnóg parnell thuaidh
+2598,parnell square,west cearnóg parnell thiar
+2599,parnell street,sráid parnell
+2600,partridge terrace,ardán partridge
+2601,patrick street,sráid phádraig
+2602,patrickswell court,cúirt thobar phádraig
+2603,patrickswell place,plás thobar phádraig
+2604,paul street,sráid phóil
+2605,pearse grove,garrán an phiarsaigh
+2606,pearse square,cearnóg an phiarsaigh
+2607,pearse street,sráid an phiarsaigh
+2608,pembroke cottages,iostáin pheambróg
+2609,pembroke gardens,gairdíní pheambróg
+2610,pembroke lane,lána pheambróg
+2611,pembroke park,páirc pheambróg
+2612,pembroke place,plás pheambróg
+2613,pembroke road,bóthar pheambróg
+2614,pembroke row,rae pheambróg
+2615,pembroke street,sráid pheambróg
+2616,pembroke street lower,sráid pheambróg
+2617,pembroke street upper,sráid pheambróg
+2618,penrose street,sráid penrose
+2619,percy french road,bóthar percy french
+2620,percy lane,lána percy
+2621,percy place,plás percy
+2622,peter place,plás pheadair
+2623,peter row,rae pheadair
+2624,peter street,sráid pheadair
+2625,peterson’s court,cúirt mhic pheadair
+2626,petrie road,bóthar petrie
+2627,phibsborough avenue,ascaill bhaile phib
+2628,phibsborough place,plás bhaile phib
+2629,phibsborough road,bóthar bhaile phib
+2630,philipsburgh avenue,ascaill bhaile phib
+2631,philipsburgh terrace,ardán bhaile phib
+2632,philomena terrace,ardán san filimín
+2633,phoenix court,cúirt an fhionnuisce
+2634,phoenix street,north sráid an fhionnuisce
+2635,phoenix street,west sráid an fhionnuisce theas
+2636,pig lane,lána na muice
+2637,pigeon house road,bóthar theach na gcolúr
+2638,pim street,sráid pim
+2639,pimlico cottages,iostáin pimlico
+2640,pine road,bóthar pine
+2641,pinebrook avenue,ascaill shruthán na giúise
+2642,pinebrook crescent,corrán shruthán na giúise
+2643,pinebrook drive,céide shruthán na giúise
+2644,pinebrook grove,garrán shruthán na giúise
+2645,pinebrook rise,ard shruthán na giúise
+2646,pinebrook road,bóthar shruthán na giúise
+2647,pinewood avenue,ascaill choill na giúise
+2648,pinewood crescent,corrán choill na giúise
+2649,pinewood drive,céide choill na giúise
+2650,pinewood green,faiche choill na giúise
+2651,pinewood grove,garrán choill na giúise
+2652,pinewood villas,bailtíní choill na giúise
+2653,"pines, the",na giúiseanna
+2654,pleasants lane,lána pleasants
+2655,pleasants place,plás pleasants
+2656,pleasants street,sráid pleasants
+2657,plunkett avenue,ascaill phluincéid
+2658,plunkett crescent,corrán phluincéid
+2659,plunkett drive,céide phluincéid
+2660,plunkett green,faiche phluincéid
+2661,plunkett grove,garrán phluincéid
+2662,plunkett road,bóthar phluincéid
+2663,poddle close,clós an phoitéil
+2664,poddle green,faiche an phoitéil
+2665,poddle park,páirc an phoitéil
+2666,poddle park road,bóthar pháirc an phoitéil
+2667,polo road,bóthar an phóló
+2668,poolbeg street,sráid an phoill bhig
+2669,poole street,sráid poole
+2670,poplar row,rae na poibleoige
+2671,portland close,clós portland
+2672,portland court,cúirt portland
+2673,portland place,plás portland
+2674,portland row,rae portland
+2675,portland street,north sráid portland thuaidh
+2676,portland street,west sráid portland thiar
+2677,portmahon drive,céide portmahon
+2678,portobello place,plás portobello
+2679,portobello road,bóthar portobello
+2680,power’s court,cúirt an phaoraigh
+2681,power’s square,cearnóg an phaoraigh
+2682,prebend street,sráid na preibinde
+2683,preston street,sráid an phriostúnaigh
+2684,price’s lane,lána an phrísigh
+2685,price’s place,plás an phrísigh
+2686,priestfield cottages,iostáin ghort an tsagairt
+2687,priestfield drive,céide ghort an tsagairt
+2688,primrose avenue,ascaill an tsabhaircín
+2689,primrose grove,garrán an tsabhaircín
+2690,primrose street,sráid an tsabhaircín
+2691,prince arthur terrace,ardán an phrionsa artúr
+2692,prince of wales terrace,ardán phrionsa na
+2693,prince’s street,south sráid an phrionsa theas
+2694,priory road,bóthar na prióireachta
+2695,promenade road,bóthar an phromanáid
+2696,prospect avenue,ascaill na radharc
+2697,prospect court,cúirt na radharc
+2698,prospect lane,lána na radharc
+2699,prospect road,bóthar na radharc
+2700,prospect square,cearnóg na radharc
+2701,protestant row,rae na bprotastúnach
+2702,proud’s lane,lána an phrútaigh
+2703,provost row,rae an phropaist
+2704,prussia street,sráid na prúise
+2705,pudding row,rae na putóige
+2706,purser gardens,gairdíní purser
+2707,pyro villas,bailtíní pyro
+2708,quarry cottages,iostáin an choiréil
+2709,quarry road,bóthar an choiréil
+2710,queen street,sráid na banríona
+2711,rafter’s avenue,ascaill uí reachtúir
+2712,rafter’s lane,lána uí reachtúir
+2713,rafter’s road,bóthar uí reachtúir
+2714,raglan lane,lána raglan
+2715,raglan road,bóthar raglan
+2716,raheen drive,céide an ráithín
+2717,raheen park,páirc an ráithín
+2718,raheny park,páirc ráth eanaigh
+2719,raheny road,bóthar ráth eanaigh
+2720,railway avenue,ascaill an iarnróid
+2721,railway cottages,iostáin an iarnróid
+2722,railway street,sráid an iarnróid
+2723,railway terrace,ardán an iarnróid
+2724,rainsford avenue,ascaill rainsford
+2725,rainsford street,sráid rainsford
+2726,raleigh square,cearnóg raleigh
+2727,ramillies road,bóthar ramillies
+2728,ramleh close,clós ramleh
+2729,ramleh park,páirc ramleh
+2730,rampart lane,lána an rampair
+2731,ranelagh avenue,ascaill raghnallach
+2732,ranelagh road,bóthar raghnallach
+2733,raphoe road,bóthar ráth bhoth
+2734,rathdown avenue,ascaill ráth an dúin
+2735,rathdown court,cúirt ráth an dúin
+2736,rathdown crescent,corrán ráth an dúin
+2737,rathdown drive,céide ráth an dúin
+2738,rathdown park,páirc ráth an dúin
+2739,rathdown road,bóthar ráth an dúin
+2740,rathdown square,cearnóg ráth an dúin
+2741,rathdown villas,bailtíní ráth an dúin
+2742,rathdrum road,bóthar ráth droma
+2743,rathfarnham road,bóthar ráth fearnáin
+2744,rathgar avenue,ascaill ráth garbh
+2745,rathgar park,páirc ráth garbh
+2746,rathgar road,bóthar ráth garbh
+2747,rathgar villas,bailtíní ráth garbh
+2748,rathlin road,bóthar reachlainn
+2749,rathmines avenue,ascaill ráth maonais
+2750,rathmines close,clós ráth maonais
+2751,rathmines park,páirc ráth maonais
+2752,rathmines road lower,bóthar ráth maonais
+2753,rathmines road upper,bóthar ráth maonais
+2754,rathmore park,páirc na rátha móire
+2755,rathmore villas,bailtíní na rátha móire
+2756,rathvale avenue,ascaill ghleann na rátha
+2757,rathvale drive,céide ráth an ghleanna
+2758,rathvale grove,garrán ráth an ghleanna
+2759,rathvale park,páirc ráth an ghleanna
+2760,rathvilly drive,céide ráth bhile
+2761,rathvilly park,páirc ráth bhile
+2762,rathvilly road,bóthar ráth bhile
+2763,ratoath avenue,ascaill ráth tó
+2764,ratoath drive,céide ráth tó
+2765,ratoath estate,eastát ráth tó
+2766,ratoath road,bóthar ráth tó
+2767,ratra park,páirc ráth an tsratha
+2768,ratra road,bóthar ráth an tsratha
+2769,ravens court,cúirt na bhfiach
+2770,ravensdale close,clós ghleann na bhfiach
+2771,ravensdale drive,céide ghleann na bhfiach
+2772,ravensdale park,páirc ghleann na bhfiach
+2773,ravensdale road,bóthar ghleann na bhfiach
+2774,raymond street,sráid réamainn
+2775,rectory green,faiche theach an
+2776,red cow lane,lána na bó deirge
+2777,redmond’s court,cúirt mhic réamainn
+2778,redmond’s hill,cnoc réamainn
+2779,reginald square,cearnóg reginald
+2780,reginald street,sráid reginald
+2781,rehoboth avenue,ascaill rehoboth
+2782,rehoboth place,plás rehoboth
+2783,reilly’s avenue,ascaill uí raghallaigh
+2784,reuben avenue,ascaill reuben
+2785,reuben street,sráid reuben
+2786,rialto cottages,iostáin rialto
+2787,rialto drive,céide rialto
+2788,rialto street,sráid rialto
+2789,ribh avenue,ascaill loch rí
+2790,ribh road,bóthar loch rí
+2791,richelieu park,páirc richelieu
+2792,richmond avenue,ascaill richmond
+2793,richmond avenue,south ascaill richmond theas
+2794,richmond cottages,iostáin richmond
+2795,richmond cottages,north iostáin richmond thuaidh
+2796,richmond crescent,corrán richmond
+2797,richmond estate,eastát richmond
+2798,richmond hill,cnoc richmond
+2799,richmond lane,lána richmond
+2800,richmond mews,eachlann richmond
+2801,richmond parade,paráid richmond
+2802,richmond place,plás richmond
+2803,richmond place,south plás richmond theas
+2804,richmond road,bóthar richmond
+2805,richmond row,rae richmond
+2806,richmond street,north sráid richmond thuaidh
+2807,richmond street,south sráid richmond theas
+2808,richview park,páirc richview
+2809,ring street,sráid uí rinn
+2810,ring terrace,ardán uí rinn
+2811,ringsend park,páirc na rinne
+2812,ringsend road,bóthar na rinne
+2813,"rise, the",an tard
+2814,river gardens,gairdíní na habhann
+2815,river road,bóthar na habhann
+2816,riversdale avenue,ascaill ghleanntán na
+2817,riversdale grove,garrán ghleanntán na
+2818,riverside avenue,ascaill chois abhann
+2819,riverside crescent,corrán chois abhann
+2820,riverside drive,céide chois abhann
+2821,riverside grove,garrán chois abhann
+2822,riverside park,páirc chois abhann
+2823,riverside road,bóthar chois abhann
+2824,robert place,plás an riobardaigh
+2825,robert street,sráid an riobardaigh
+2826,robert street,south sráid an riobardaigh theas
+2827,roger’s lane,lána rogers
+2828,roosevelt cottages,iostáin roosevelt
+2829,rope walk place,plás na rópaí
+2830,rosary road,bóthar na corónach muire
+2831,rosary terrace,ardán na corónach muire
+2832,roseglen avenue,ascaill ghleann na rós
+2833,roseglen road,bóthar ghleann na rós
+2834,rosemount avenue,ascaill chnocán na rós
+2835,rosemount road,bóthar chnocán na rós
+2836,ross road,bóthar an rosa
+2837,ross street,sráid an rosa
+2838,rossmore avenue,ascaill ros mór
+2839,rossmore drive,céide ros mór
+2840,rossmore road,bóthar ros mór
+2841,rostrevor road,bóthar ros treabhair
+2842,rostrevor terrace,ardán ros treabhair
+2843,rowserstown lane,lána bhaile rowser
+2844,royal canal court,cúirt na canálach ríoga
+2845,royal canal place,plás na canálach ríoga
+2846,royal canal terrace,ardán na canálach ríoga
+2847,royal oak cottages,iostáin na darach ríoga
+2848,royse road,bóthar royse
+2849,royston village,sráidbhaile royston
+2850,rugby road,bóthar rugby
+2851,rugby villas,bailtíní rugby
+2852,russell avenue,ascaill an ruiséalaigh
+2853,russell avenue,east ascaill an ruiséalaigh thoir
+2854,russell street,sráid an ruiséalaigh
+2855,rutland avenue,ascaill rutland
+2856,rutland cottages,iostáin rutland
+2857,rutland grove,garrán rutland
+2858,rutland place,plás rutland
+2859,rutland place,north plás rutland thuaidh
+2860,rutland row,rae rultland
+2861,rutland street lower,sráid rutland
+2862,rutledge terrace,ardán rutledge
+2863,ryder’s row,rae uí mharcaigh
+2864,sackville avenue,ascaill sackville
+2865,sackville gardens,gairdíní sackville
+2866,sackville place,plás sackville
+2867,saddlers court,cúirt an diallatóra
+2868,saint agnes’ park,páirc san aignéas
+2869,saint agnes’ road,bóthar san aignéas
+2870,saint agnes’ terrace,ardán san aignéas
+2871,saint aidan’s park,páirc aodháin
+2872,saint aidan’s park avenue,ascaill pháirc aodháin
+2873,saint aidan’s park road,bóthar pháirc aodháin
+2874,saint alban’s park,páirc san albán
+2875,saint alban’s road,bóthar san albán
+2876,saint alphonsus’ avenue,ascaill san alfonsas
+2877,saint alphonsus’ road lower,bóthar san alfonsas
+2878,saint alphonsus’ road upper,bóthar san alfonsas
+2879,saint andrew’s lane,lána san aindrias
+2880,saint andrew’s street,sráid san aindrias
+2881,saint anne’s avenue,ascaill san anna
+2882,saint anne’s drive,céide san anna
+2883,saint anne’s road,bóthar san anna
+2884,saint anne’s terrace,ardán san anna
+2885,saint anthony’s road,bóthar san antaine
+2886,saint assam’s avenue,ascaill san asam
+2887,saint assam’s drive,céide san asam
+2888,saint assam’s park,páirc san asam
+2889,saint assam’s road,east bóthar san asam thoir
+2890,saint assam’s road,west bóthar san asam thiar
+2891,saint attracta’s road,bóthar athracht
+2892,saint audeon’s terrace,ardán san audoen
+2893,saint augustine street,sráid san agaistín
+2894,saint barnabas gardens,gairdíní san barnabas
+2895,saint benedict’s gardens,gairdíní san beinidict
+2896,saint brendan’s avenue,ascaill bhréanainn
+2897,saint brendan’s cottages,iostáin bhréanainn
+2898,saint brendan’s drive,céide bhréanainn
+2899,saint brendan’s park,páirc bhréanainn
+2900,saint brendan’s road,bóthar bhréanainn
+2901,saint brendan’s terrace,ardán bhréanainn
+2902,saint bricin’s park,páirc bhricín
+2903,saint brigid’s avenue,ascaill bhríde
+2904,saint brigid’s close,clós bhríde
+2905,saint brigid’s cottages,iostáin bhríde
+2906,saint brigid’s crescent,corrán bhríde
+2907,saint brigid’s drive,céide bhríde
+2908,saint brigid’s green,faiche bhríde
+2909,saint brigid’s grove,garrán bhríde
+2910,saint brigid’s lawn,plásóg bhríde
+2911,saint brigid’s road,bóthar bhríde
+2912,saint brigid’s road lower,bóthar bhríde
+2913,saint broc’s cottages,iostáin bhroc
+2914,saint canice’s park,páirc chainnigh
+2915,saint canice’s road,bóthar chainnigh
+2916,saint catherine’s avenue,ascaill san caitríona
+2917,saint catherine’s lane,lána san caitríona
+2918,saint clare’s avenue,ascaill san clár
+2919,saint clement’s road,bóthar san cleimint
+2920,saint columba’s road lower,bóthar cholm cille
+2921,saint columba’s road upper,bóthar cholm cille
+2921,saint columba’s road,bóthar cholm cille
+2922,saint david’s park,páirc san dáibhí
+2923,saint david’s terrace,ardán san dáibhí
+2924,saint david’s wood,coill san dáibhí
+2925,saint declan’s road,bóthar dhéagláin
+2926,saint declan’s terrace,ardán dhéagláin
+2927,saint donagh’s crescent,corrán domhnaigh
+2928,saint donagh’s park,páirc dhomhnaigh
+2929,saint donagh’s road,bóthar dhomhnaigh
+2930,saint eithne road,bóthar eithne
+2931,saint enda’s road,bóthar éanna
+2932,saint finbar’s road,bóthar fhionnbharra
+2933,saint fintan road,bóthar fhiontain
+2934,saint fintan terrace,ardán fhiontain
+2935,saint francis’ square,cearnóg san proinsias
+2936,saint gabriel’s road,bóthar naomh gaibréal
+2937,saint george’s avenue,ascaill san seoirse
+2938,saint helena’s drive,céide san eiléana
+2939,saint helena’s road,bóthar san eiléana
+2940,saint helen’s terrace,ardán san eiléana
+2941,saint ignatius’ avenue,ascaill san iognáid
+2942,saint ignatius’ road,bóthar san iognáid
+2943,saint ita’s road,bóthar íde
+2944,saint james’ avenue,ascaill san séamas
+2945,saint james’ place,plás san séamas
+2946,saint james’ terrace,ardán san séamas
+2947,saint james’s avenue,ascaill san séamas
+2948,saint james’s walk,siúlán san séamas
+2949,saint jarlath’s road,bóthar iarlatha
+2950,saint john’s avenue,ascaill eoin
+2951,saint johns court,cúirt eoin
+2952,saint john’s road,bóthar eoin
+2953,saint john’s road,west bóthar eoin thiar
+2954,saint john’s street,sráid eoin
+2955,saint john’s wood,coill eoin
+2956,saint joseph street,sráid iósaif
+2957,saint joseph’s avenue,ascaill iósaif
+2958,saint joseph’s court,cúirt iósaif
+2959,saint joseph’s parade,paráid iósaif
+2960,saint joseph’s place,plás iósaif
+2961,saint joseph’s road,bóthar iósaif
+2962,saint joseph’s square,cearnóg iósaif
+2963,saint joseph’s terrace,ardán iósaif
+2964,saint joseph’s villas,bailtíní iósaif
+2965,saint kevin’s avenue,ascaill chaoimhín
+2966,saint kevin’s cottages,iostáin chaoimhín
+2967,saint kevins gardens,gairdíní chaoimhín
+2968,saint kevin’s parade,páráid chaoimhín
+2969,saint kevin’s park,páirc chaoimhín
+2970,saint kevin’s road,bóthar chaoimhín
+2971,saint laurence grove,garrán san labhrás
+2972,saint laurence place,plás san labhrás
+2973,saint laurence place,east plás san labhrás thoir
+2974,saint laurence’s road,bóthar san labhrás
+2975,saint lawrence road,bóthar san labhrás
+2976,saint magdalen terrace,ardán naomh maigdiléana
+2977,saint malachy road,bóthar mhaolmhaodhóg
+2978,saint margaret’s avenue,ascaill san maighréad
+2979,saint margaret’s court,cúirt san maighréad
+2980,saint margaret’s road,bóthar theampaill
+2981,saint margaret’s terrace,ardán san maighréad
+2982,saint martin’s drive,céide san mártan
+2983,saint martin’s park,páirc san mártan
+2984,saint mary’s avenue,north ascaill mhuire thuaidh
+2985,saint mary’s crescent,corrán mhuire
+2986,saint mary’s drive,céide mhuire
+2987,saint mary’s lane,lána mhuire
+2988,saint mary’s park,páirc mhuire
+2989,saint mary’s place,plás mhuire
+2990,saint mary’s road,bóthar mhuire
+2991,saint mary’s terrace,ardán mhuire
+2992,saint michael’s close,clós mhichíl
+2993,saint michael’s cottages,iostáin mhichíl
+2994,saint michael’s estate,eastát mhichíl
+2995,saint michael’s place,plás mhichíl
+2996,saint michael’s road,bóthar mhichíl
+2997,saint michael’s terrace,ardán mhichíl
+2998,saint michan’s street,sráid mhichin
+2999,saint mobhi drive,céide mobhí
+3000,saint mobhi grove,garrán mobhí
+3001,saint mobhi road,bóthar mobhí
+3002,saint nicholas place,plás san nioclás
+3003,saint pappin green,faiche phapáin
+3004,saint pappin road,bóthar phapáin
+3005,saint patrick’s avenue,ascaill phádraig
+3006,saint patrick’s close,clós phádraig
+3007,saint patrick’s parade,paráid phádraig
+3008,saint patrick’s place,plás phádraig
+3009,saint patrick’s road,bóthar phádraig
+3010,saint patrick’s terrace,ardán phádraig
+3011,saint patrick’s villas,bailtíní phádraig
+3012,saint peter’s avenue,ascaill pheadair
+3013,saint peter’s road,bóthar pheadair
+3014,saint philomena’s road,bóthar san filimín
+3015,saint stephen’s green,faiche stiabhna
+3016,saint stephen’s green,east faiche stiabhna thoir
+3017,saint stephen’s green,north faiche stiabhna thuaidh
+3018,saint stephen’s green,south faiche stiabhna theas
+3019,saint stephen’s green,west faiche stiabhna thiar
+3020,saint teresa place,plás san treasa
+3021,saint teresa road,bóthar san treasa
+3022,saint teresa’s gardens,gairdíní san treasa
+3023,saint teresa’s road,bóthar san treasa
+3024,saint thomas road,bóthar san tomás
+3025,saint vincent street,sráid naomh uinseann
+3026,saint vincent street,south sráid naomh uinseann
+3027,saint vincent street,west sráid naomh uinseann
+3028,salem court,cúirt salem
+3029,sallymount avenue,ascaill ard saileach
+3030,sallymount gardens,gairdiní ard saileach
+3031,sallymount terrace,ardán ard saileach
+3032,sampson’s lane,lána sampson
+3033,sandford avenue,ascaill sandford
+3034,sandford close,clós sandford
+3035,sandford gardens,gairdíní sandford
+3036,sandford park,páirc sandford
+3037,sandford road,bóthar sandford
+3038,sandford terrace,ardán sandford
+3039,sandwith street lower,sráid sandwith
+3040,sandwith street upper,sráid sandwith
+3040,sandwith street,sráid sandwith
+3041,sandyhill avenue,ascaill chnoc an ghainimh
+3042,sandyhill gardens,gairdíní chnoc an
+3043,sandymount avenue,ascaill dhumhach thrá
+3044,sandymount castle drive,céide chaisleán dhumhach
+3045,sandymount castle park,páirc chaisleán dhumhach
+3046,sandymount castle road,bóthar chaisleán
+3047,sandymount court,cúirt dhumhach thrá
+3048,sandymount green,faiche dhumhach thrá
+3049,sandymount road,bóthar dhumhach thrá
+3050,santry avenue,ascaill sheantraibh
+3051,santry court,cúirt sheantraibh
+3052,santry villas,bailtíní sheantraibh
+3053,sarsfield quay,cé an tsáirséalaigh
+3054,sarsfield road,bóthar an tsáirséalaigh
+3055,sarsfield street,sráid an tsáirséalaigh
+3056,saul road,bóthar shabhaill
+3057,scarlett row,rae scarlett
+3058,school avenue,ascaill na scoile
+3059,school street,sráid na scoile
+3060,schoolhouse lane,lána theach na scoile
+3061,seafield avenue,ascaill ghort na mara
+3062,seafield downs,mulláin ghort na mara
+3063,seafield grove,garrán ghort na mara
+3064,seafield road,east bóthar ghort na mara thoir
+3065,seafield road,west bóthar ghort na mara thiar
+3066,seafort avenue,ascaill dhún na mara
+3067,seafort crescent,corrán dhún na mara
+3068,seafort gardens,gairdíní dhún na mara
+3069,seafort villas,bailtíní dhún na mara
+3070,seamus ennis road,bóthar shéamais mhic
+3071,sean macdermott street lower,sráid sheáin mhic
+3072,sean macdermott street upper,sráid sheáin mhic
+3072,sean macdermott street,sráid sheáin mhic
+3073,sean o’casey avenue,ascaill sheáin uí
+3074,seapark drive,céide pháirc na mara
+3075,seapark road,bóthar pháirc na mara
+3076,seapoint terrace,ardán rinn na mara
+3077,seaview avenue,east ascaill radharc na mara
+3078,seaview avenue,north ascaill radharc na mara
+3079,seaview terrace,ardán radharc na mara
+3080,second avenue,ascaill a dó
+3081,selskar terrace,ardán sheilsceire
+3082,serpentine avenue,ascaill na lúb
+3083,serpentine mews,eachlann na lúb
+3084,serpentine park,páirc na lúb
+3085,serpentine road,bóthar na lúb
+3086,serpentine terrace,ardán na lúb
+3087,setanta place,plás shéanna
+3088,seville place,plás seville
+3089,seville terrace,ardán seville
+3090,shamrock cottages,iostáin na seamróige
+3091,shamrock place,plás na seamróige
+3092,shamrock street,sráid na seamróige
+3093,shamrock terrace,ardán na seamróige
+3094,shamrock villas,bailtíní na seamróige
+3095,shanard avenue,ascaill sheanaird
+3096,shanard road,bóthar sheanaird
+3097,shanboley road,bóthar na seanbhuaile
+3098,shandon crescent,corrán an tseandúin
+3099,shandon drive,céide an tseandúin
+3100,shandon gardens,gairdíní an tseandúin
+3101,shandon green,faiche an tseandúin
+3102,shandon park,páirc an tseandúin
+3103,shandon road,bóthar an tseandúin
+3104,shangan avenue,ascaill na seangán
+3105,shangan crescent,corrán na seangán
+3106,shangan gardens,gairdíní na seangán
+3107,shangan green,faiche na seangán
+3108,shangan park,páirc na seangán
+3109,shangan road,bóthar na seangán
+3110,shanganagh road,bóthar sheangánaí
+3111,shanglas road,bóthar na seanghlaise
+3112,shanid road,bóthar sheanaid
+3113,shanliss avenue,ascaill an tseanleasa
+3114,shanliss drive,céide an tseanleasa
+3115,shanliss gardens,gairdíní an tseanleasa
+3116,shanliss grove,garrán an tseanleasa
+3117,shanliss park,páirc an tseanleasa
+3118,shanliss road,bóthar an tseanleasa
+3119,shanliss walk,siúlán an tseanleasa
+3120,shanliss way,bealach an tseanleasa
+3121,shannon terrace,ardán na sionainne
+3122,shanowen avenue,ascaill na seanabhann
+3123,shanowen crescent,corrán na seanabhann
+3124,shanowen drive,céide na seanabhann
+3125,shanowen grove,garrán na seanabhann
+3126,shanowen park,páirc na seanabhann
+3127,shanowen road,bóthar na seanabhann
+3128,shanrath road,bóthar na seanrátha
+3129,shantalla avenue,ascaill sheantalaimh
+3130,shantalla drive,céide sheantalaimh
+3131,shantalla park,páirc sheantalaimh
+3132,shantalla road,bóthar sheantalaimh
+3133,shanvarna road,bóthar sheanbhearna
+3134,shaw street,sráid an tseáigh
+3135,shaws lane,lána an tseáigh
+3136,shea’s court,cúirt uí shé
+3137,shea’s lane,lána uí shé
+3138,shelbourne avenue,ascaill shíol bhroin
+3139,shelbourne lane,lána shíol bhroin
+3140,shelbourne road,bóthar shíol bhroin
+3141,shelmalier road,bóthar shíol maoluír
+3142,shelmartin avenue,ascaill shliabh mhártain
+3143,shelmartin terrace,ardán shliabh mhártain
+3144,sheriff street lower,sráid an tsirriam
+3145,sheriff street upper,sráid an tsirriam
+3145,sheriff street,sráid an tsirriam
+3146,sherkin gardens,gairdíní inis arcáin
+3147,sherrard avenue,ascaill sherrard
+3148,sherrard court,cúirt sherrard
+3149,sherrard street lower,sráid sherrard
+3150,sherrard street upper,sráid sherrard
+3150,sherrard street,sráid sherrard
+3151,ship street,great sráid na gcaorach mhór
+3152,ship street,little sráid na gcaorach bheag
+3153,shrewsbury park,páirc shrewsbury
+3154,shrewsbury road,bóthar shrewsbury
+3155,sibthorpe lane,lána sibthorpe
+3156,sigurd road,bóthar shiochraidh
+3157,silloge avenue,ascaill shaileoige
+3158,silloge gardens,gairdíní shaileoige
+3159,silloge road,bóthar shaileoige
+3160,simmon’s place,plás mhic shíomóin
+3161,simmonscourt avenue,ascaill chúirt shíomóin
+3162,simmonscourt road,bóthar chúirt shíomóin
+3163,simmonscourt square,cearnóg chúirt shíomóin
+3164,simmonscourt terrace,ardán chúirt shíomóin
+3165,simmonscourt view,radharc chúirt shíomóin
+3166,simpson’s lane,lána mhic shim
+3167,sion hill avenue,ascaill chnoc shióin
+3168,sion hill road,bóthar chnoc shióin
+3169,sir john rogerson’s quay,cé sir john rogerson
+3170,sitric place,plás shitric
+3171,sitric road,bóthar shitric
+3172,skelly’s lane,lána uí scalaí
+3173,skreen road,bóthar na scríne
+3174,slade row,rae an tsláid
+3175,slademore avenue,ascaill an tsláid mhóir
+3176,slademore close,clós an tsláid mhóir
+3177,slademore court,cúirt an tsláid mhóir
+3178,slademore drive,céide an tsláid mhóir
+3179,slane road,bóthar bhaile shláine
+3180,slaney close,clós na sláine
+3181,slaney road,bóthar na sláine
+3182,slemish road,bóthar shliabh mis
+3183,slievebloom park,páirc shliabh bladhma
+3184,slievebloom road,bóthar shliabh bladhma
+3185,slievemore road,bóthar an tsleibhe mhóir
+3186,slievenamon road,bóthar shliabh na mban
+3187,smithfield village,sráidbhaile mhargadh na
+3188,smith’s cottages,iostáin mhic gabhann
+3189,snowdrop walk,siúlán an phlúirín sneachta
+3190,somerset street,sráid somerset
+3191,somerville avenue,ascaill somerville
+3192,somerville drive,céide somerville
+3193,somerville green,faiche somerville
+3194,somerville park,páirc somerville
+3195,south bank road,bóthar an phoirt theas
+3196,south circular road,an cuarbhóthar theas
+3197,south dock place,plás an duga theas
+3198,south dock road,bóthar an duga theas
+3199,south dock street,sráid an duga theas
+3200,south great george’s street,sráid sheoirse mhór theas
+3201,south hill,an cnoc theas
+3202,south link road,an nascbhóthar theas
+3203,south lotts road,bóthar na lotaí theas
+3204,southern cross avenue,ascaill chros an deiscirt
+3205,spa road,bóthar an spá
+3206,spafield terrace,ardán ghort an spá
+3207,spencer dock,duga spencer
+3208,spencer place,plás spencer
+3209,spencer street,north sráid spencer thuaidh
+3210,spencer street,south sráid spencer theas
+3211,sperrin road,bóthar shliabh speirín
+3212,spiddal park,páirc an spidéil
+3213,spiddal road,bóthar an spidéil
+3214,spire view,radharc na spuaice
+3215,spire view lane,lána radharc na spuaice
+3216,spring garden lane,lána ghairdín an tobair
+3217,spring garden street,sráid ghairdín an tobair
+3218,springdale road,bóthar ghleanntán an
+3219,springfield gort,an tobair
+3220,the square,an chearnóg
+3221,st brigid’s road upper,bóthar bhríde
+3221,st brigid’s road,bóthar bhríde
+3222,stable lane,lána na stáblaí
+3223,stamer street,sráid stamer
+3224,stanford green,faiche stanford
+3225,stanhope green,faiche stanhope
+3226,stanhope street,sráid stanhope
+3227,stannaway avenue,ascaill bhóthar na gcloch
+3228,stannaway drive,céide bhóthar na gcloch
+3229,stannaway road,bóthar bhóthar na gcloch
+3230,station road,bóthar an stáisiúin
+3231,steeven’s lane,lána steevens
+3232,stella avenue,ascaill stella
+3233,stephen street lower,sráid stiabhna
+3234,stephen street upper,sráid stiabhna
+3234,stephen street,sráid stiabhna
+3235,stephen’s lane,lána stiabhna
+3236,stephen’s place,plás stiabhna
+3237,stephens road,bóthar stiabhna
+3238,stiles court,cúirt stiles
+3239,"stiles road, the",bóthar na strapaí
+3240,stillorgan road,bóthar stigh lorgan
+3241,stirrup lane,lána na stíoróipe
+3242,stokes place,plás an stócaigh
+3243,stoney road,bóthar stoney
+3244,store street,sráid an stórais
+3245,stormanstown road,bóthar bhaile stoirmín
+3246,strand road,bóthar na trá
+3247,strand street,sráid na trá
+3248,strand street,great sráid na trá mhór
+3249,strand street,little sráid na trá bheag
+3250,strand terrace,ardán na trá
+3251,strandville avenue,ascaill bhaile na trá
+3252,strandville avenue,east ascaill bhaile na trá thoir
+3253,strandville place,plás bhaile na trá
+3254,strangford gardens,gairdíní loch cuan
+3255,strangford road,east bóthar loch cuan thoir
+3256,strasburg terrace,ardán strasburg
+3257,streamville road,bóthar bhaile an tsrutháin
+3258,strong’s court,cúirt strong
+3259,suffolk street,sráid suffolk
+3260,suir road,bóthar na siúire
+3261,sullivan street,sráid uí shúilleabháin
+3262,summer place,plás chnoc an tsamhraidh
+3263,summer street,north sráid chnoc an tsamhraidh
+3264,summer street,south sráid chnoc an tsamhraidh
+3265,summerhill parade,paráid chnoc an
+3266,summerhill place,plás chnoc an tsamhraidh
+3267,summerville park,páirc summerville
+3268,sunbury gardens,gairdíní sunbury
+3269,sunbury park,páirc sunbury
+3270,sundrive park,páirc ghrianréime
+3271,sundrive road,bóthar ghrianréime
+3272,susan terrace,ardán shiobhán
+3273,susanville road,bóthar bhaile shiobhán
+3274,sussex road,bóthar sussex
+3275,sussex terrace,ardán sussex
+3276,swan alley,scabhat na heala
+3277,swan grove,garrán na heala
+3278,swan place,plás na heala
+3279,swan’s nest avenue,ascaill nead na heala
+3280,swan’s nest road,bóthar nead na heala
+3281,swanville place,plás bhaile na heala
+3282,sweeney’s terrace,ardán mhic shuibhne
+3283,swift’s alley,scabhat swift
+3284,swift’s grove,garrán swift
+3285,swilly road,bóthar loch súilí
+3286,swords street,sráid shoird
+3287,sybil hill avenue,ascaill chnoc shibéal
+3288,sybil hill road,bóthar chnoc shibéal
+3289,sycamore park,páirc an tseiceamair
+3290,sycamore road,bóthar an tseiceamair
+3291,sycamore street,sráid an tseiceamair
+3292,sydenham road,bóthar sydenham
+3293,sydney parade avenue,ascaill pharáid sydney
+3294,synge lane,lána synge
+3295,synge place,plás synge
+3296,synge street,sráid synge
+3297,synnott place,plás shionóid
+3298,synnott row,rae shionóid
+3299,talbot place,plás thalbóid
+3300,talbot street,sráid thalbóid
+3301,tara lawn,plásóg na teamhrach
+3302,tara street,sráid na teamhrach
+3303,"thatch road, the",bóthar na tuí
+3304,temple cottages,iostáin temple
+3305,temple court,cúirt temple
+3306,temple gardens,gairdíní temple
+3307,temple lane,north lána temple thuaidh
+3308,temple lane,south lána temple theas
+3309,temple park,páirc temple
+3310,temple place,plás temple
+3311,temple road,bóthar temple
+3312,temple square,cearnóg temple
+3313,temple street,sráid temple
+3314,temple street,west sráid temple thiar
+3315,temple view avenue,ascaill radharc an
+3316,temple view close,clós radharc an teampaill
+3317,temple view,copse rosán radharc an
+3318,temple view court,cúirt radharc an teampaill
+3319,temple view crescent,corrán radharc an
+3320,temple view drive,céide radharc an teampaill
+3321,temple view green,faiche radharc an
+3322,temple view grove,garrán radharc an
+3323,temple view lawn,plásóg radharc an
+3324,temple view park,páirc radharc an teampaill
+3325,temple view place,plás radharc an teampaill
+3326,temple view rise,ard radharc an teampaill
+3327,temple view row,rae radharc an teampaill
+3328,temple view square,cearnóg radharc an
+3329,temple view,vale gleanntán radharc an
+3330,temple view walk,siúlán radharc an
+3331,temple view way,bealach radharc an
+3332,temple villas,bailtíní temple
+3333,templemore avenue,ascaill an teampaill mhóir
+3334,templeogue road,bóthar theach mealóg
+3335,templeview downs,mulláin radharc an
+3336,terenure park,páirc thír an iúir
+3337,terenure place,plás thír an iúir
+3338,terenure road,east bóthar thír an iúir thoir
+3339,terenure road,north bóthar thír an iúir thuaidh
+3340,terenure road,west bóthar thír an iúir thiar
+3341,terminal road,south bóthar an chríochfoirt
+3342,termon court,cúirt an tearmainn
+3343,terrace place,plás an ardáin
+3344,third avenue,ascaill a trí
+3345,thirlestane terrace,ardán thirlestane
+3346,thomas court,cúirt san tomás
+3347,thomas court,bawn bábhún chúirt san tomás
+3348,thomas davis street,south sráid thomáis dáibhis
+3349,thomas davis street,west sráid thomáis dáibhis thiar
+3350,thomas moore road,bóthar thomáis uí mhóra
+3351,thomas street,sráid thomáis
+3352,thomas street,west sráid thomáis thiar
+3353,thomond road,bóthar thuamhan
+3354,thompsons cottages,iostáin mhic thomáis
+3355,thor place,plás thor
+3356,thorncastle street,sráid chláir fhada
+3357,thorndale avenue,ascaill ghleanntán na
+3358,thorndale crescent,corrán ghleanntán na
+3359,thorndale drive,céide ghleanntán na
+3360,thorndale grove,garrán ghleanntán na
+3361,thorndale lawn,plásóg ghleanntán na
+3362,thorndale park,páirc ghleanntán na
+3363,thornfield gort,na sceiche
+3364,thornville avenue,ascaill bhaile na sceiche
+3365,thornville drive,céide bhaile na sceiche
+3366,thornville park,páirc bhaile na sceiche
+3367,thornville road,bóthar bhaile na sceiche
+3368,tir connell grove,garrán thír chonaill
+3369,tivoli avenue,ascaill tivoli
+3370,tolka cottages,iostáin na tulchann
+3371,tolka estate road,bóthar eastát na tulchann
+3372,tolka quay road,bóthar ché na tulchann
+3373,tolka road,bóthar na tulchann
+3374,tolka valley business park,páirc ghnó ghleann na
+3375,tolka valley road,bóthar ghleann na
+3376,tom kelly road,bóthar thomáis uí
+3377,tomar court,cúirt thomhair
+3378,tonguefield road,bóthar ghort na teanga
+3379,tonlegee avenue,ascaill thóin le gaoith
+3380,tonlegee drive,céide thóin le gaoith
+3381,tonlegee road,bóthar thóin le gaoith
+3382,torlogh gardens,gairdíní thoirealaigh
+3383,torlogh parade,paráid thoirealaigh
+3384,tourmakeady road,bóthar thuar mhic éadaigh
+3385,tower avenue,ascaill an túir
+3386,tower view cottages,iostáin radharc an túir
+3387,townsend street,sráid chnoc na lobhar
+3388,tranquility grove,garrán an tsuaimhnis
+3389,trim road,bóthar bhaile átha troim
+3390,trinity street,sráid na tríonóide
+3391,trinity terrace,ardán na tríonóide
+3392,tritonville avenue,ascaill tritonville
+3393,tritonville close,clós tritonville
+3394,tritonville court,cúirt tritonville
+3395,tritonville crescent,corrán tritonville
+3396,tritonville road,bóthar tritonville
+3397,tudor road,bóthar na dtúdarach
+3398,tulip court,cúirt na dtiúilipí
+3399,turvey avenue,ascaill thuirbhe
+3400,tuscany downs,mulláin tuscany
+3401,tyrconnell park,páirc thír chonaill
+3402,tyrconnell road,bóthar thír chonaill
+3403,tyrconnell street,sráid thír chonaill
+3404,tyrrell’s place,plás an tirialaigh
+3405,ulster street,sráid uladh
+3406,upper cross road,bóthar na croise uachtaraí
+3407,upper glen road,bóthar an ghleanna
+3408,usher street,sráid uiséir
+3409,usher’s island,oileán uiséir
+3410,usher’s quay,cé uiséir
+3411,valentia parade,paráid dhairbhre
+3412,valentia road,bóthar dhairbhre
+3413,valeview crescent,corrán radharc an
+3414,valeview drive,céide radharc an
+3415,valeview gardens,gairdíní radharc an
+3416,valley park avenue,ascaill pháirc an ghleanna
+3417,valley park drive,céide pháirc an ghleanna
+3418,valley park road,bóthar pháirc an ghleanna
+3419,vavasour square,cearnóg vavasour
+3420,venetian hall an hall,a veinéiseach
+3421,ventry drive,céide fhionntrá
+3422,ventry park,páirc fhionntrá
+3423,ventry road,bóthar fhionntrá
+3424,vera terrace,ardán vera
+3425,vergemount park,páirc chnocán an imill
+3426,vernon avenue,ascaill vernon
+3427,vernon drive,céide vernon
+3428,vernon gardens,gairdíní vernon
+3429,vernon grove,garrán vernon
+3430,vernon heath,fraoch vernon
+3431,vernon park,páirc vernon
+3432,vernon rise,ard vernon
+3433,vernon street,sráid vernon
+3434,vernon wood,coill vernon
+3435,veronica terrace,ardán veronica
+3436,verschoyle place,plás verschoyle
+3437,vicar street,sráid an bhiocáire
+3438,victoria avenue,ascaill victoria
+3439,victoria lane,lána victoria
+3440,victoria quay,cé victoria
+3441,victoria road,bóthar victoria
+3442,victoria street,sráid victoria
+3443,victoria village,sráidbhaile victoria
+3444,victoria villas,bailtíní victoria
+3445,viking court,cúirt na nuigingeach
+3446,viking place,plás na nuigingeach
+3447,viking road,bóthar na nuigingeach
+3448,villa park avenue,ascaill pháirc an bhailtín
+3449,villa park drive,céide pháirc an bhailtín
+3450,villa park gardens,gairdíní pháirc an bhailtín
+3451,villa park road,bóthar pháirc an bhailtín
+3452,"village, the",an sráidbhaile
+3453,villiers road,bóthar villiers
+3454,violet hill drive,céide chnoc na
+3455,violet hill park,páirc chnoc na sailchuach
+3456,violet hill road,bóthar chnoc na
+3457,virginia drive,céide achadh an iúir
+3458,virginia park,páirc achadh an iúir
+3459,wadelai green,faiche wadelai
+3460,wadelai road,bóthar wadelai
+3461,wade’s avenue,ascaill wade
+3462,walker’s cottages,iostáin walker
+3463,walkinstown avenue,ascaill bhaile bhailcín
+3464,walkinstown close,clós bhaile bhailcín
+3465,walkinstown crescent,corrán bhaile bhailcín
+3466,walkinstown drive,céide bhaile bhailcín
+3467,walkinstown green,faiche bhaile bhailcín
+3468,walkinstown parade,paráid bhaile bhailcín
+3469,walkinstown park,páirc bhaile bhailcín
+3470,walkinstown road,bóthar bhaile bhailcín
+3471,wallace road,bóthar an bhailisigh
+3472,walnut avenue,ascaill an ghallchnó
+3473,walnut court,cúirt an ghallchnó
+3474,walnut lawn,plásóg an ghallchnó
+3475,walnut park,páirc an ghallchnó
+3476,walnut rise,ard an ghallchnó
+3477,walnut walk,siúlán an ghallchnó
+3478,walsh road,bóthar an bhreatnaigh
+3479,walworth road,bóthar walworth
+3480,ward’s hill,cnoc mhic an bhaird
+3481,warner’s lane,lána warner
+3482,warren street,sráid warren
+3483,warrenmount place,plás warrenmount
+3484,warrington place,plás warrington
+3485,wasdale grove,garrán wasdale
+3486,wasdale park,páirc wasdale
+3487,washington street,sráid washington
+3488,waterfall avenue,ascaill an easa
+3489,waterfall road,bóthar an easa
+3490,waterloo avenue,ascaill waterloo
+3491,waterloo lane,lána waterloo
+3492,waterloo road,bóthar waterloo
+3493,watermill avenue,ascaill an mhuilinn uisce
+3494,watermill drive,céide an mhuilinn uisce
+3495,watermill lawn,plásóg an mhuilinn uisce
+3496,watermill park,páirc an mhuilinn uisce
+3497,watermill road,bóthar an mhuilinn uisce
+3498,watkins buildings,foirgnimh watkins
+3499,watling street,sráid watling
+3500,waverley avenue,ascaill waverley
+3501,weavers close,clós na bhfíodóirí
+3502,weavers’ square,cearnóg na bhfíodóirí
+3503,weavers street,sráid na bhfíodóirí
+3504,wellesley place,plás wellesley
+3505,wellington lane,lána wellington
+3506,wellington place,plás wellington
+3507,wellington place,north plás wellington thuaidh
+3508,wellington quay,cé wellington
+3509,wellington road,bóthar wellington
+3510,wellington street lower,sráid wellington
+3511,wellington street upper,sráid wellington
+3512,wellmount avenue,ascaill chnocán an tobair
+3513,wellmount court,cúirt chnocán an tobair
+3514,wellmount crescent,corrán chnocán an tobair
+3515,wellmount drive,céide chnocán an tobair
+3516,wellmount green,faiche chnocán an tobair
+3517,wellmount park,páirc chnocán an tobair
+3518,wellmount road,bóthar chnocán an tobair
+3519,wellpark avenue,ascaill ghort an tobair
+3520,werburgh street,sráid san werburgh
+3521,wesley place,plás wesley
+3522,wesley road,bóthar wesley
+3523,west park drive,céide na páirce thiar
+3524,west road,an bóthar thiar
+3525,west terrace,an tardán thiar
+3526,westbourne road,bóthar westbourne
+3527,western road,bóthar an iarthair
+3528,western way,bealach an iarthair
+3529,westfield road,bóthar an ghoirt thiar
+3530,westhampton place,plás westhampton
+3531,westland court,cúirt an iarthair
+3532,westland row,rae an iarthair
+3533,westland square,cearnóg an iarthair
+3534,westmoreland park,páirc westmoreland
+3535,westmoreland street,sráid westmoreland
+3536,westwood avenue,ascaill na coille thiar
+3537,westwood road,bóthar na coille thiar
+3538,wexford street,sráid loch garman
+3539,whitebank road,bóthar an phoirt ghil
+3540,whitefriar place,plás na mbráithre bána
+3541,whitefriar street,sráid na mbráithre bána
+3542,whitethorn avenue,ascaill na sceiche gile
+3543,whitethorn close,clós na sceiche gile
+3544,whitethorn crescent,corrán na sceiche gile
+3545,whitethorn grove,garrán na sceiche gile
+3546,whitethorn park,páirc na sceiche gile
+3547,whitethorn rise,ard na sceiche gile
+3548,whitethorn road,bóthar na sceiche gile
+3549,whitton road,bóthar whitton
+3550,whitworth avenue,ascaill whitworth
+3551,whitworth parade,paráid whitworth
+3552,whitworth place,plás whitworth
+3553,whitworth road,bóthar whitworth
+3554,whitworth terrace,ardán whitworth
+3555,wicklow street,sráid chill mhantáin
+3556,wigan road,bóthar wigan
+3557,wilfield gort,na sailí
+3558,wilfield park,páirc ghort na sailí
+3559,wilfield road,bóthar ghort na sailí
+3560,wilfrid road,bóthar wilfrid
+3561,wilfrid terrace,ardán wilfrid
+3562,william street,north sráid liam thuaidh
+3563,william street,south sráid liam theas
+3564,williams park,páirc mhic liam
+3565,william’s place lower,plás mhic liam
+3566,william’s place,south plás mhic liam theas
+3567,william’s place upper,plás mhic liam
+3568,willie bermingham place,plás liam mhic fheorais
+3569,willow field gort,na sailí
+3570,willow mews,eachlann na sailí
+3571,willow park avenue,ascaill pháirc na sailí
+3572,willow park close,clós pháirc na sailí
+3573,willow park crescent,corrán pháirc na sailí
+3574,willow park drive,céide pháirc na sailí
+3575,willow park grove,garrán pháirc na sailí
+3576,willow park lawn,plásóg pháirc na sailí
+3577,willow park road,bóthar pháirc na sailí
+3578,"willows, the",na saileoga
+3579,willsborough industrial estate,eastát tionscail bhaile liam
+3580,wilson terrace,ardán mhic liam
+3581,wilson’s place,plás mhic liam
+3582,wilton place,plás wilton
+3583,wilton terrace,ardán wilton
+3584,windele road,bóthar windele
+3585,windmill avenue,ascaill an mhuilinn ghaoithe
+3586,windmill crescent,corrán an mhuilinn
+3587,windmill lane,lána an mhuilinn ghaoithe
+3588,windmill park,páirc an mhuilinn ghaoithe
+3589,windmill road,bóthar an mhuilinn
+3590,windsor avenue,ascaill windsor
+3591,windsor lane,lána windsor
+3592,windsor place,plás windsor
+3593,windsor road,bóthar windsor
+3594,windsor terrace,ardán windsor
+3595,windsor villas,bailtíní windsor
+3596,winetavern street,sráid an fhíona
+3597,winton avenue,ascaill winton
+3598,winton mews,eachlann winton
+3599,winton road,bóthar winton
+3600,wolfe tone street,sráid wolfe tone
+3601,wolseley street,sráid wolseley
+3602,wood lane,lána an adhmaid
+3603,wood quay,an ché adhmaid
+3604,wood street,sráid an adhmaid
+3605,woodbank avenue,ascaill bhruach na coille
+3606,woodbank drive,céide bhruach na coille
+3607,woodbine close,clós an fhéithlinn
+3608,woodbine drive,céide an fhéithlinn
+3609,woodbine park,páirc an fhéithlinn
+3610,woodbine road,bóthar an fhéithlinn
+3611,woodfield cottages,iostáin ghort na coille
+3612,woodfield place,plás ghort na coille
+3613,woodlawn avenue,ascaill phlásóg na coille
+3614,woodlawn close,clós phlásóg na coille
+3615,woodlawn court,cúirt phlásóg na coille
+3616,woodlawn crescent,corrán phlásóg na coille
+3617,woodlawn drive,céide phlásóg na coille
+3618,woodlawn green,faiche phlásóg na coille
+3619,woodlawn grove,garrán phlásóg na coille
+3620,woodlawn park,páirc phlásóg na coille
+3621,woodlawn rise,ard phlásóg na coille
+3622,woodlawn view,radharc phlásóg na coille
+3623,woodlawn walk,siúlán phlásóg na coille
+3624,woodlawn way,bealach phlásóg na coille
+3625,"woods, the",na coillte
+3626,woodstock court,cúirt bhodastoig
+3627,woodstock gardens,gairdíní bhodastoig
+3628,woodview close,clós radharc na coille
+3629,woodview park,páirc radharc na coille
+3630,woodville court,cúirt bhaile na coille
+3631,woodville road,bóthar bhaile na coille
+3632,wynnefield road,bóthar wynnefield
+3633,wyteleaf grove,garrán wyteleaf
+3634,xavier avenue,ascaill xavier
+3635,yarnhall street,sráid halla an abhrais
+3636,yellow road,an bóthar buí
+3637,yewland terrace,ardán fhearann an iúir
+3638,york avenue,ascaill eabhrac
+3639,york road,bóthar eabhrac
+3640,york street,sráid eabhrac
+3641,zion road,bóthar shióin
+3642,zoo road,bóthar ghairdín na nainmhithe
+,ard na meala,ard na meala
+,ashbrook,sruthán na
+,ashcroft,croit na
+,ashgrove lodge,lóiste gharrán na
+,ashington dale,gleanntán ashington
+,aulden grange,gráinseach aulden
+,balnagowan|newtownsmith,baile na ngabhann
+,bannaville,bannaville
+,beechlawn,plásóg na feá
+,belclare lawns,plásóga bhéal chláir
+,belleville,belleville
+,bellevue,bellevue
+,berystede,berystede
+,bettyglen,bettyglen
+,blackpitts,na cuithí dubha
+,bridgeview halting site,stad radharc an droichid
+,broadstone,an chloch leathan
+,brookville,baile an tsrutháin
+,brookwood heights,arda choill an tsrutháin
+,brookwood meadow,cluain choill an tsrutháin
+,brunswick,brunswick
+,burnside,taobh an tsrutháin
+,buttercup crescent,corrán na bhfearbán
+,castle elms,caisleán na leamhán
+,castlecourt,cúirt an chaisleáin
+,castleview,radharc an chaisleáin
+,charlemont,charlemont
+,charlemont mall,meal charlemont
+,charleville mall,meal charleville
+,cill eanna,cill éanna
+,claremont lawns,plásóga claremont
+,clonshaugh heights,arda chluain seach
+,clonshaugh meadow,móinéar chluain seach
+,colbert’s fort,dún cholbaird
+,college manor,mainéar an choláiste
+,collinswood,coill uí choileáin
+,convent lawns,plásóga an chlochair
+,cornmarket,margadh an arbhair
+,cow parlour,parlús na mbó
+,crannagh,an chrannach
+,cremore heights,arda chríoch mhór
+,crinan strand,trá chríonáin
+,cullenswood,fiodh cuillinn
+,cusacks corner,coirnéal chíosóig
+,dalymount,cnocán uí dhálaigh
+,dolphin’s barn,an carnán
+,donnybrook manor,mainéar dhomhnach broc
+,elm mount heights,arda chnocán an leamháin
+,elmfield vale,gleann ghort an leamháin
+,fairview,fionnradharc
+,fairview passage,pasáiste fhionnradhairc
+,fairview strand,trá fhionnradhairc
+,ferrymans crossing,bealach an fharantóra
+,foxfield heights,arda ghort an tsionnaigh
+,garrynure,garraí an iúir
+,glasnevin oaks,daracha ghlas naíon
+,glasnevin woods,coillte ghlas naíon
+,glenaulin,gleann álainn
+,grand canal harbour,calafort na canálach móire
+,grattan lodge,lóiste grattan
+,greenlawns,na plásóga glasa
+,greenmount lawns,plásóga an chnocáin
+,griffith lawns,plásóga uí ghríofa
+,grosvenor lodge,lóiste grosvenor
+,haymarket,margadh an fhéir
+,hazeldene,fothair an choill
+,hollybrook,sruthán an chuilinn
+,innismore,inis mór
+,jamestown centre,lárionad bhaile shéamais
+,janeville,janeville
+,lansdowne valley,gleann lansdún
+,laurelton,baile an labhrais
+,laurence brook,sruthán san labhrás
+,lyndon gate,geata lyndon
+,mariners port,port an mhairnéalaigh
+,marino mart,marglann marino
+,maryfield woods,coillte ghort mhuire
+,mary’s abbey,mainistir mhuire
+,meadow bank,bruach na cluana
+,merchants arch,áirse na gceannaithe
+,merrion strand,trá mhuirfean
+,merry bush,merry bush
+,middle third,an trian meánach
+,milltown path,cosán bhaile an mhuilinn
+,molyneux yard,clós molyneux
+,mount brown,cnocán an bhrúnaigh
+,mount prospect lawns,plásóga chnocán an
+,mount saint annes,cnocán san anna
+,mount sandford,cnocán sandford
+,mullinahack,muileann an chaca
+,newbury heights,arda newbury
+,newbury lawns,plásóga newbury
+,newmarket,an margadh nua
+,newtown and coolock,an baile nua agus an
+,north lotts,na lotaí thuaidh
+,ocean pier,cé an aigéin
+,old kilmainham,sean-chill mhaighneann
+,old mountpleasant,seanchnocán aoibhinn
+,orchard lawns,plásóga an úlloird
+,orwell bank,bruach orwell
+,orwell woods,coillte orwell
+,phibsborough,baile phib
+,phoenix manor,mainéar an fhionnuisce
+,phoenix park,pairc an fhionnuisce
+,pimlico,pimlico
+,pine hurst,rosán na giúise
+,portobello harbour,cuan portobello
+,priory east,an phrióireacht thoir
+,priory north,an phrióireacht thuaidh
+,priory west,an phrióireacht thiar
+,ranelagh,raghnallach
+,rinn na mara,rinn na mara
+,rothe abbey,mainistir rothe
+,royal canal bank,bruach na canálach ríoga
+,royston,royston
+,saint david’s,eastát san dáibhí
+,saint john’s,arasáin eoin
+,saint mobhi,boithirin bóithrín mobhí
+,seabury,seabury
+,seacourt,cúirt na mara
+,seven oaks,na seacht ndair
+,shrewsbury,shrewsbury
+,smithfield,margadh na feirme
+,south city markets,margaí na cathrach theas
+,spitalfields,bánta an spidéil
+,springmount,cnocán an tobair
+,stoneybatter,bóthar na gcloch
+,stratford haven,cuan stratford
+,summer arch,áirse chnoc an tsamhraidh
+,summerhill,cnoc an tsamhraidh
+,summerville,bailtín summerville
+,swiftsgrove,garrán swift
+,temple bar,barra an teampaill
+,tenterfields,goirt na gcrann triomaithe
+,westcourt an chúirt thiar
+,western parkway,bealach na páirce
+,westpark ,an pháirc thiar
+,woodlands,fearann na coille
+,woodleigh,bán na coille
+,woodpark,páirc na coille
+,woodside,cois coille
+,clontarf,cluain tarbh
+,rathmines,rath maonais
+,dun laoighaire|Dún Laoghaire,rath maonais
+,rialto,rialto
+,Adamstown
+,Arbour Hill
+,Artane
+,Ashtown
+,Ayrfield
+,Balbriggan
+,Baldonnell
+,Baldoyle
+,Balgriffin
+,Ballinteer
+,Ballsbridge
+,Ballybough
+,Ballycullen
+,Ballyfermot
+,Ballymun
+,Balrothery
+,Beaumont
+,Blackrock
+,Blanchardstown
+,Bluebell
+,Booterstown
+,Cabinteely
+,Carpenterstown
+,Carrickmines
+,Castleknock
+,cabra
+,Chapelizod
+,Cherry Orchard
+,Christchurch
+,Churchtown
+,Citywest
+,Cloghran
+,Clondalkin
+,Clonee
+,Clonshaugh
+,Clonsilla
+,Clonskeagh
+,Clontarf
+,Coolmine
+,Coolock
+,Cornelscourt
+,Crumlin
+,Dalkey
+,Dartry
+,Deansgrange
+,Donabate
+,Donaghmede
+,Donnybrook
+,Donnycarney
+,Drimnagh
+,Drumcondra
+,Dun Laoghaire
+,Dundrum
+,East Wall
+,Fairview
+,Finglas
+,Firhouse
+,Foxrock
+,Glasnevin
+,Glenageary
+,Goatstown
+,Grand Canal Dock
+,Hanover Quay
+,Harold's Cross
+.harold's cross road
+,Hollystown
+,Howth
+,IFSC
+,Inchicore
+,Irishtown
+,Islandbridge
+,Jobstown
+,Kilbarrack
+,Killester
+,Killiney
+,Kilmacud
+,Kilmainham
+,Kimmage
+,Kingswood
+,Kinsealy
+,Knocklyon
+,Leopardstown
+,Loughlinstown
+,Lucan
+,Lusk
+,Malahide
+,Marino
+,Milltown
+,Monkstown
+,Mount Merrion
+,Mulhuddart
+,Naul
+,Navan Road
+,Newcastle
+,North Circular Road
+,North Strand
+,North Wall
+,Oldtown
+,Palmerstown
+,Park West
+,Phibsborough
+,Portmarnock
+,Portobello
+,Raheny
+,Ranelagh
+,Rathcoole
+,Rathfarnham
+,Rathgar
+,Rathmichael
+,Rathmines
+,Rialto
+,Ringsend
+,Rush
+,Saggart
+,Sallynoggin
+,Sandycove
+,Sandyford
+,Sandymount
+,Santry
+,Shankill
+,Skerries
+,Smithfield
+,South Circular Road
+,Stepaside
+,Stillorgan
+,Stoneybatter
+,Sutton
+,Swords
+,Tallaght
+,Temple Bar
+,Templeogue
+,Terenure
+,The Ward
+,Tyrrelstown
+,Walkinstown
+,Whitehall
+,bull island
+,poddle river
+,dodder river
+,river dodder
+,liffey river
+,river liffey
+,tolka river
+,ceannt fort
+,o'connell st
+,o'connell street
+,camac river
+,royal canal
+,grand canal
+,river poddle
+,poddle river
+,river tolka
+,tolka river
+,kingsbridge
+
